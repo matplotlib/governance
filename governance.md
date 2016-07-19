@@ -66,12 +66,14 @@ The foundations of Project governance are:
 -   Institutional Neutrality
 
 Project leadership was provided by the original author, John
-D. Hunter.  Since his passing in 2012, leadership has been provided by
-a subset of Contributors, called Core Developers, whose active and
-consistent contributions have been recognized by their receiving
-“commit rights” to the Project repositories. In general all Project
-decisions are made through consensus among the Core Developers with
-input from the Community.
+D. Hunter.  Shortly before his passing in 2012, leadership was
+transferred to Michael Droettboom, who later invited Thomas Caswell as
+a co-lead.  Additional leadership has also been provided by a subset
+of Contributors, called Core Developers, whose active and consistent
+contributions have been recognized by their receiving “commit rights”
+to the Project repositories. In general all Project decisions are made
+through consensus among the Core Developers with input from the
+Community.
 
 While this approach has served us well, as the Project grows and faces
 more legal and financial decisions and interacts with other
