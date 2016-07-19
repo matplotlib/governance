@@ -102,7 +102,7 @@ of the Steering Council (see below) and may delegate his/her authority on a
 particular decision or set of decisions to any other Council member at his/her
 discretion.
 
-The BDFL can appointing his/her successor, but it is expected that the Steering
+The BDFL can appoint his/her successor, but it is expected that the Steering
 Council would be consulted on this decision. If the BDFL is unable to appoint a
 successor, the Steering Council will make a suggestion or suggestions to the
 Main NumFOCUS Board. While the Steering Council and Main NumFOCUS Board will
@@ -239,7 +239,7 @@ interactions with NumFOCUS.
     Council.
 -   This Subcommittee shall NOT make decisions about the direction, scope or
     technical direction of the Project.
--   This Subcommittee will have 4 members, at least 2 of which are
+-   This Subcommittee will have 4 members, at least 2 of whom are
     also on the Steering Council and 1 of whom will be external to the
     Steering Council. No Subcommitee Member can report to the same
     person as any other member of the Subcommittee through employment
