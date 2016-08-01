@@ -79,7 +79,7 @@ Community.
 While this approach has served us well, as the Project grows and faces
 more legal and financial decisions and interacts with other
 institutions, we see a need for a more formal governance model. Moving
-forward The Project leadership will consist of a Benevolent Dictator
+forward, the Project leadership will consist of a Benevolent Dictator
 for Life (BDFL) and a Steering Council. We view this governance model
 as the formalization of what we are already doing, rather than a
 change in direction.
