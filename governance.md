@@ -39,8 +39,9 @@ Here is a list of the current Contributors to the main Matplotlib repository:
 
 [https://github.com/matplotlib/matplotlib/graphs/contributors](https://github.com/matplotlib/matplotlib/graphs/contributors)
 
-There are also many other Contributors listed in the logs of other repositories of
-the project.
+There are also many other Contributors listed in the logs of other
+repositories of the project.  This does not include contributions of
+items other than code, such as reporting and commenting on issues.
 
 The Project Community consists of all Contributors and Users of the Project.
 Contributors work on behalf of and are responsible to the larger Project
