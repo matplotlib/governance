@@ -10,18 +10,17 @@ The Project
 ===========
 
 The Matplotlib Project (The Project) is an open source software
-project affiliated with the 501c3 NumFocus Foundation. The goal of The
-Project is to develop open source software and deploy open and public
-websites and services for data visualization. The Software developed
-by The Project is released under the BSD (or similar permissive) open
-source license, developed openly and hosted in public GitHub
-repositories under the
+project affiliated with the [NumFOCUS](https://numfocus.org)
+Foundation. The goal of The Project is to develop open source software
+and deploy open and public websites and services for data
+visualization. The Software developed by The Project is released under
+the BSD (or similar permissive) open source license, developed openly
+and hosted in public GitHub repositories under the
 [Matplotlib GitHub organization](https://github.com/matplotlib). Examples
 of Project Software include the matplotlib library for data
-visualization and associated extensions and dependencies.  The
+visualization and its associated extensions and dependencies.  The
 Services run by the Project consist of public websites and
-web-services that are hosted under the matplotlib.org
-domain.
+web-services that are hosted under the matplotlib.org domain.
 
 The Project is developed by a team of distributed developers, called
 Contributors. Contributors are individuals who have contributed code,
@@ -48,12 +47,14 @@ Contributors work on behalf of and are responsible to the larger Project
 Community and we strive to keep the barrier between Contributors and Users as
 low as possible.
 
-The Project is formally affiliated with the 501c3 NumFOCUS Foundation
-([http://numfocus.org](http://numfocus.org)), which serves as its fiscal
-sponsor, may hold project trademarks and other intellectual property, helps
-manage project donations and acts as a parent legal entity. NumFOCUS is the
-only legal entity that has a formal relationship with the project (see
-Institutional Partners section below).
+The Project is formally affiliated with the NumFOCUS Foundation
+([http://numfocus.org](http://numfocus.org)), a non-profit
+organization covered by section 501(c)(3) of the United States
+Internal Revenue Service code.  NumFOCUS serves as its fiscal sponsor,
+may hold project trademarks and other intellectual property, helps
+manage project donations and acts as a parent legal entity. NumFOCUS
+is the only legal entity that has a formal relationship with the
+project (see Institutional Partners section below).
 
 Governance
 ==========
@@ -107,7 +108,7 @@ The BDFL can appoint his/her successor, but it is expected that the Steering
 Council would be consulted on this decision. If the BDFL is unable to appoint a
 successor, the Steering Council will make a suggestion or suggestions to the
 Main NumFOCUS Board. While the Steering Council and Main NumFOCUS Board will
-work together closely on the BDFL selection process, the Main NUMFOCUS Board
+work together closely on the BDFL selection process, the Main NumFOCUS Board
 will make the final decision.
 
 Steering Council
