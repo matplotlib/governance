@@ -74,10 +74,10 @@ Project leadership was initially provided by the original author, John
 D. Hunter.  Shortly before his passing in 2012, leadership was
 transferred to Michael Droettboom, who later invited Thomas Caswell as
 a co-lead.  Additional leadership has also been provided by a subset
-of Contributors, called Core Developers, whose active and consistent
+of Contributors, called Developers, whose active and consistent
 contributions have been recognized by their receiving “commit rights”
 to the Project repositories. In general all Project decisions are made
-through consensus among the Core Developers with input from the
+through consensus among the Developers with input from the
 Community.
 
 While this approach has served us well, as the Project grows and faces
@@ -155,7 +155,7 @@ quality and quantity, and sustained over at least one year. Potential Council
 Members are nominated by existing Council members and voted upon by the
 existing Council after asking if the potential Member is interested and willing
 to serve in that capacity. The Council will be initially formed from the set of
-existing Core Developers who, as of late 2016, have been significantly active
+existing Developers who, as of late 2016, have been significantly active
 over the last year.
 
 When considering potential Members, the Council will look at candidates with a
