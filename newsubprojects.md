@@ -1,3 +1,6 @@
+**This does not apply to matplotlib and still needs to be adapted from
+Jupyter.**
+
 # New Subproject Process
 
 Project Jupyter is organized as a set of Subprojects that are each a GitHub repository with a
@@ -65,7 +68,7 @@ following proposal process will be used:
 
 1. The Subproject team should submit a pull request against the
    [jupyter/enhancement-proposals](https://github.com/jupyter/enhancement-proposals) repository
-   with an enhancement proposal for including the Subproject in the main Jupyter organization. 
+   with an enhancement proposal for including the Subproject in the main Jupyter organization.
    The enhancement proposal should describe how the Subproject meets each of the above criteria.
 2. The proposal for incorporation will be discussed by the community using that pull request.
 3. A recommendation will be made by the consensus of the Steering Council (SC).

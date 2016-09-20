@@ -4,58 +4,60 @@ The official version of this document, along with a list of
 individuals and institutions in the roles defined in the governance
 section below, is contained in The Project Governance Repository at:
 
-[https://github.com/jupyter/governance](https://github.com/jupyter/governance)
+[https://github.com/matplotlib/governance](https://github.com/matplotlib/governance)
 
 The Project
 ===========
 
-The Jupyter/IPython Project (The Project) is an open source software project
-affiliated with the 501c3 NumFocus Foundation. The goal of The Project is to
-develop open source software and deploy open and public websites and services
-for reproducible, exploratory and interactive computing. The Software developed
-by The Project is released under the BSD (or similar) open source license,
-developed openly and hosted in public GitHub repositories under the
-[IPython GitHub organization](https://github.com/ipython) and the
-[Jupyter GitHub organization](https://github.com/jupyter). Examples of
-Project Software include the IPython Notebook, the IPython Terminal,
-IPython.parallel, the Jupyter Hub, etc. The Services run by the
-Project consist of public websites and web-services that are hosted
-under the jupyter.org or ipython.org domains. The Services Examples of
-Project Services include the Jupyter and IPython websites
-([http://jupyter.org](http://jupyter.org) and
-[http://ipython.org](http://ipython.org)), nbviewer
-([https://nbviewer.ipython.org](https://nbviewer.ipython.org)) and the
-Jupyter coLaboratory
-([https://colaboratory.jupyter.org](https://colaboratory.jupyter.org)).
+The Matplotlib Project (The Project) is an open source software
+project affiliated with the [NumFOCUS](https://numfocus.org)
+Foundation. The goal of The Project is to develop open source software
+and deploy open and public websites and services for data
+visualization. The Software developed by The Project is released under
+the BSD (or similar permissive) open source license, developed openly
+and hosted in public GitHub repositories under the
+[Matplotlib GitHub organization](https://github.com/matplotlib). Examples
+of Project Software include the matplotlib library for data
+visualization and its associated extensions and dependencies.  The
+Services run by the Project consist of public websites and
+web-services that are hosted under the matplotlib.org domain.
 
 The Project is developed by a team of distributed developers, called
 Contributors. Contributors are individuals who have contributed code,
-documentation, designs or other work to one or more Project repositories.
-Anyone can be a Contributor. Contributors can be affiliated with any legal
-entity or none. Contributors participate in the project by submitting,
-reviewing and discussing GitHub Pull Requests and Issues and participating in
-open and public Project discussions on GitHub, Google+, Hackpad, Gitter chat
-rooms and mailing lists. The foundation of Project participation is openness
-and transparency.
+documentation, designs or other work to one or more Project
+repositories.  Contributors are also known by the name "Matplotlib
+Development Team (MDT)" in the project license.  Anyone can be a
+Contributor. Contributors can be affiliated with any legal entity or
+none. Contributors participate in the project by submitting, reviewing
+and discussing GitHub Pull Requests and Issues and participating in
+open and public Project discussions on GitHub, Google+, Hackpad,
+Gitter chat rooms and mailing lists. The foundation of Project
+participation is openness and transparency.
 
-Here is a list of the current Contributors to the main IPython repository:
+For example, here is a partial list of the current Contributors to the
+main Matplotlib repository:
 
-[https://github.com/ipython/ipython/graphs/contributors](https://github.com/ipython/ipython/graphs/contributors)
+[https://github.com/matplotlib/matplotlib/graphs/contributors](https://github.com/matplotlib/matplotlib/graphs/contributors)
 
-There are also many other Contributors listed in the logs of other repositories of
-the Jupyter and IPython projects.
+There are also many other Contributors listed in the logs of other
+repositories of the project.  This also notably does not include
+contributions of items other than code, such as reporting and
+commenting on issues, so is only a subset of the individuals
+considered to be Contributors.
 
 The Project Community consists of all Contributors and Users of the Project.
 Contributors work on behalf of and are responsible to the larger Project
 Community and we strive to keep the barrier between Contributors and Users as
 low as possible.
 
-The Project is formally affiliated with the 501c3 NumFOCUS Foundation
-([http://numfocus.org](http://numfocus.org)), which serves as its fiscal
-sponsor, may hold project trademarks and other intellectual property, helps
-manage project donations and acts as a parent legal entity. NumFOCUS is the
-only legal entity that has a formal relationship with the project (see
-Institutional Partners section below).
+The Project is formally affiliated with the NumFOCUS Foundation
+([http://numfocus.org](http://numfocus.org)), a non-profit
+organization covered by section 501(c)(3) of the United States
+Internal Revenue Service code.  NumFOCUS serves as its fiscal sponsor,
+may hold project trademarks and other intellectual property, helps
+manage project donations and acts as a parent legal entity. NumFOCUS
+is the only legal entity that has a formal relationship with the
+project (see Institutional Partners section below).
 
 Governance
 ==========
@@ -68,26 +70,29 @@ The foundations of Project governance are:
 -   Active Contribution
 -   Institutional Neutrality
 
-Traditionally, Project leadership was provided by a BDFL (Fernando Perez) and
-subset of Contributors, called Core Developers, whose active and consistent
-contributions have been recognized by their receiving “commit rights” to the
-Project GitHub repositories. In general all Project decisions are made through
-consensus among the Core Developers with input from the Community. The BDFL
-can, but rarely chooses to, override the Core Developers and make a final
-decision on a matter.
+Project leadership was initially provided by the original author, John
+D. Hunter.  Shortly before his passing in 2012, leadership was
+transferred to Michael Droettboom, who later invited Thomas Caswell as
+a co-lead.  Additional leadership has also been provided by a subset
+of Contributors, called Developers, whose active and consistent
+contributions have been recognized by their receiving “commit rights”
+to the Project repositories. In general all Project decisions are made
+through consensus among the Developers with input from the
+Community.
 
-While this approach has served us well, as the Project grows and faces more
-legal and financial decisions and interacts with other institutions, we see a
-need for a more formal governance model. Moving forward The Project leadership
-will consist of a BDFL and Steering Council. We view this governance model as
-the formalization of what we are already doing, rather than a change in
-direction.
+While this approach has served us well, as the Project grows and faces
+more legal and financial decisions and interacts with other
+institutions, we see a need for a more formal governance model. Moving
+forward, the Project leadership will consist of a Benevolent Dictator
+for Life (BDFL) and a Steering Council. We view this governance model
+as the formalization of what we are already doing, rather than a
+change in direction.
 
 BDFL
 ----
 
 The Project will have a BDFL (Benevolent Dictator for Life), who is currently
-Fernando Perez. As Dictator, the BDFL has the authority to make all final
+Thomas Caswell. As Dictator, the BDFL has the authority to make all final
 decisions for The Project. As Benevolent, the BDFL, in practice chooses to
 defer that authority to the consensus of the community discussion channels and
 the Steering Council (see below). It is expected, and in the past has been the
@@ -102,11 +107,11 @@ of the Steering Council (see below) and may delegate his/her authority on a
 particular decision or set of decisions to any other Council member at his/her
 discretion.
 
-The BDFL can appointing his/her successor, but it is expected that the Steering
+The BDFL can appoint his/her successor, but it is expected that the Steering
 Council would be consulted on this decision. If the BDFL is unable to appoint a
 successor, the Steering Council will make a suggestion or suggestions to the
 Main NumFOCUS Board. While the Steering Council and Main NumFOCUS Board will
-work together closely on the BDFL selection process, the Main NUMFOCUS Board
+work together closely on the BDFL selection process, the Main NumFOCUS Board
 will make the final decision.
 
 Steering Council
@@ -150,7 +155,7 @@ quality and quantity, and sustained over at least one year. Potential Council
 Members are nominated by existing Council members and voted upon by the
 existing Council after asking if the potential Member is interested and willing
 to serve in that capacity. The Council will be initially formed from the set of
-existing Core Developers who, as of late 2014, have been significantly active
+existing Developers who, as of late 2016, have been significantly active
 over the last year.
 
 When considering potential Members, the Council will look at candidates with a
@@ -225,26 +230,27 @@ most of the time, and explicit BDFL intervention is sought only if the
 committee disagrees with that delegate’s decision and no resolution is possible
 within the team. This is different from a BDFL delegate for a specific decision
 (or a recusal situation), where the BDFL is literally giving up his/her
-authority to someone else in full. It’s more like what Linus Torvalds uses with his
-“lieutenants” model.
+authority to someone else in full.
 
 ### NumFOCUS Subcommittee
 
 The Council will maintain one narrowly focused subcommittee to manage its
 interactions with NumFOCUS.
 
--   The NumFOCUS Subcommittee is comprised of 5 persons who manage project
+-   The NumFOCUS Subcommittee is comprised of 4 persons who manage project
     funding that comes through NumFOCUS. It is expected that these funds will
     be spent in a manner that is consistent with the non-profit mission of
     NumFOCUS and the direction of the Project as determined by the full
     Council.
 -   This Subcommittee shall NOT make decisions about the direction, scope or
     technical direction of the Project.
--   This Subcommittee will have 5 members, 4 of whom will be current Council
-    Members and 1 of whom will be external to the Steering Council. No more
-    than 2 Subcommitee Members can report to one person through employment or
-    contracting work (including the reportee, i.e. the reportee + 1 is the
-    max). This avoids effective majorities resting on one person.
+-   This Subcommittee will have 4 members, at least 2 of whom are
+    also on the Steering Council and 1 of whom will be external to the
+    Steering Council. No Subcommitee Member can report to the same
+    person as any other member of the Subcommittee through employment
+    or contracting work (including the reportee, i.e. the reportee + 1
+    is the max). This avoids effective majorities resting on one
+    person.
 
 
 Institutional Partners and Funding
@@ -275,7 +281,7 @@ of their official duties. To state this another way, the only way for
 an Institutional Partner to influence the project is by actively
 contributing to the open development of the project, on equal terms
 with any other member of the community of Contributors and Council
-Members. Merely using Jupyter/IPython Software or Services in an
+Members. Merely using Matplotlib Software or Services in an
 institutional context does not allow an entity to become an
 Institutional Partner. Financial gifts do not enable an entity to
 become an Institutional Partner. Once an institution becomes eligible
@@ -293,42 +299,27 @@ building proprietary products and services that leverage Project Software and
 Services. Funding acquired by Institutional Partners to work on The Project is
 called Institutional Funding. However, no funding obtained by an Institutional
 Partner can override The Project BDFL and Steering Council. If a Partner has
-funding to do Jupyter/IPython work and the Council decides to not pursue that
+funding to do Matplotlib work and the Council decides to not pursue that
 work as a project, the Partner is free to pursue it on their own. However in
 this situation, that part of the Partner’s work will not be under the
-Jupyter/IPython umbrella and cannot use the Project trademarks in a way that
+Matplotlib umbrella and cannot use the Project trademarks in a way that
 suggests a formal relationship.
 
-To acknowledge institutional contributions, there are two level of Institutional
-Partners, with associated benefits:
+To acknowledge institutional contributions, Institutional Partners
+receive the following benefits:
 
-**Tier 1** = an institution with at least one Institutional Council Member
-
--   Acknowledged on the Jupyter/IPython websites, in talks and T-shirts.
--   Ability to acknowledge their own funding sources on the Jupyter/IPython
+-   Acknowledged on the Matplotlib websites, in talks and T-shirts.
+-   Ability to acknowledge their own funding sources on the Matplotlib
     websites, in talks and T-shirts.
--   Unlimited participation in the annual Institutional Partners Workshop, held
-    during the (planned) annual Jupyter Project Retreat. This allows the
-    Institutional Partner to invite as many of their own employees and funding
-    sources and collaborators as they want, even if they are not project
-    Contributors or Council Members.
 -   Ability to influence the project through the participation of their Council
     Member.
--   Council Members are invited to the bi-annual Jupyter/IPython Developer Meeting.
-
-**Tier 2** = an institution with at least one Institutional Contributor
-
--   Same benefits as Tier 1 level Partners, but:
--   Only Institutional Contributors are invited to the Institutional Partners
-    Workshop and bi-annual Jupyter/IPython Developer Meeting.
-
 
 Changing the Governance Documents
 =================================
 
 Changes to the governance documents are submitted via a GitHub pull
 request to The Project's governance documents GitHub repository at
-[https://github.com/jupyter/governance](https://github.com/jupyter/governance).
+[https://github.com/matplotlib/governance](https://github.com/matplotlib/governance).
 The pull request is then refined in response to public comment and
 review, with the goal being consensus in the community.  After this
 open period, a Steering Council Member proposes to the Steering
