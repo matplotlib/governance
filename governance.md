@@ -34,13 +34,16 @@ open and public Project discussions on GitHub, Google+, Hackpad,
 Gitter chat rooms and mailing lists. The foundation of Project
 participation is openness and transparency.
 
-Here is a list of the current Contributors to the main Matplotlib repository:
+For example, here is a partial list of the current Contributors to the
+main Matplotlib repository:
 
 [https://github.com/matplotlib/matplotlib/graphs/contributors](https://github.com/matplotlib/matplotlib/graphs/contributors)
 
 There are also many other Contributors listed in the logs of other
-repositories of the project.  This does not include contributions of
-items other than code, such as reporting and commenting on issues.
+repositories of the project.  This also notably does not include
+contributions of items other than code, such as reporting and
+commenting on issues, so is only a subset of the individuals
+considered to be Contributors.
 
 The Project Community consists of all Contributors and Users of the Project.
 Contributors work on behalf of and are responsible to the larger Project
@@ -67,7 +70,7 @@ The foundations of Project governance are:
 -   Active Contribution
 -   Institutional Neutrality
 
-Project leadership was provided by the original author, John
+Project leadership was initially provided by the original author, John
 D. Hunter.  Shortly before his passing in 2012, leadership was
 transferred to Michael Droettboom, who later invited Thomas Caswell as
 a co-lead.  Additional leadership has also been provided by a subset
