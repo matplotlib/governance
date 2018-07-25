@@ -154,9 +154,8 @@ Project Contributor who has produced contributions that are substantial in
 quality and quantity, and sustained over at least one year. Potential Council
 Members are nominated by existing Council members and voted upon by the
 existing Council after asking if the potential Member is interested and willing
-to serve in that capacity. The Council will be initially formed from the set of
-existing Developers who, as of late 2016, have been significantly active
-over the last year.
+to serve in that capacity. The Council will be initially formed through BDFL
+nomination from the set of existing Developers who meet the above criteria.
 
 When considering potential Members, the Council will look at candidates with a
 comprehensive view of their contributions. This will include but is not limited
@@ -178,7 +177,7 @@ given a grace period of one year. If they don’t return to active participation
 within that time period they will be removed by vote of the Council without
 further grace period. All former Council members can be considered for
 membership again at any time in the future, like any other Project Contributor.
- Retired Council members will be listed on the project website, acknowledging
+Retired Council members will be listed on the project website, acknowledging
 the period during which they were active in the Council.
 
 The Council reserves the right to eject current Members, other than the BDFL,
@@ -221,16 +220,6 @@ specific aspects of the project. Like the Council as a whole, subcommittees
 should conduct their business in an open and public manner unless privacy is
 specifically called for. Private subcommittee communications should happen on
 the main private mailing list of the Council unless specifically called for.
-
-Question: if the BDFL is not on a subcommittee, do they still have override
-authority?
-
-Suggestion: they do, but they should appoint a delegate who plays that role
-most of the time, and explicit BDFL intervention is sought only if the
-committee disagrees with that delegate’s decision and no resolution is possible
-within the team. This is different from a BDFL delegate for a specific decision
-(or a recusal situation), where the BDFL is literally giving up his/her
-authority to someone else in full.
 
 ### NumFOCUS Subcommittee
 
