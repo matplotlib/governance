@@ -141,8 +141,12 @@ In particular, the Council may:
     individuals.
 -   Make decisions about the Services that are run by The Project and manage
     those Services for the benefit of the Project and Community.
+-   Granting or revoking commit rights.
 -   Make decisions when regular community discussion doesn’t produce consensus
     on an issue in a reasonable time frame.
+-   Develop funding sources and spending money (see Finance sub
+    committee below).
+
 
 ### Council membership
 
