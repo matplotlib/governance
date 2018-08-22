@@ -6,7 +6,12 @@ Thomas Caswell is the Benevolent Dictator for Life (BDFL).
 
 ## Steering Council
 
-TBD
+- Thomas Caswell
+
+NOTE: The Council will be initially formed through BDFL nomination from the set
+of existing Developers who meet the criteria laid out in the governance
+document.
+
 
 ### NumFOCUS Subcommittee
 
