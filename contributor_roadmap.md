@@ -126,7 +126,7 @@ https://discourse.matplotlib.org/
 - sustained constructive participation in discussions
 
 **get suspended or banned:**
-- repeated or sever violations of [discourse guidelines](https://discourse.matplotlib.org/faq)
+- repeated or severe violations of [discourse guidelines](https://discourse.matplotlib.org/faq)
 - potential repercussion of a [Code of Conduct](https://www.python.org/psf/conduct/) violation
 
 ## Instagram
