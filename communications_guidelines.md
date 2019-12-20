@@ -5,7 +5,7 @@ These guidelines are applicable when acting as a representitive of Matplotlib (f
 * https://gitter.im/matplotlib/ 
 * https://github.com/matplotlib/matplotblog 
 * twitter.com/matplotlib
-* instagram.com/matplotart/
+* https://instagram.com/matplotart/
 
 ## Content Guidelines:
 - stick to Matplotlib, 3rd party packages, and visualizations made with Matplotlib
