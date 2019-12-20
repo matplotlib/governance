@@ -149,7 +149,7 @@ Curate a gallery of data and scientific visualization art made using Matplotlib
 -  at discretion of [communications lead](named_project_roles.md)
 
 ## Twitter
-twitter.com/matplotlib
+https://twitter.com/matplotlib
 
 Signal boost what’s new with the library & 3rd party packages, promote new work built on Matplotlib, and engage with the community. 
 
