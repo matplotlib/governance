@@ -2,7 +2,7 @@
 These guidelines are applicable when acting as a representitive of Matplotlib (for example at sprints or when giving official talks or tutorials) and on the following community venues managed by matplotlib:
 * https://github.com/matplotlib/matplotlib
 * https://discourse.matplotlib.org/
-* gitter.im/matplotlib/ 
+* https://gitter.im/matplotlib/ 
 * https://github.com/matplotlib/matplotblog 
 * twitter.com/matplotlib
 * instagram.com/matplotart/
