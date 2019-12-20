@@ -4,7 +4,7 @@ These guidelines are applicable when acting as a representitive of Matplotlib (f
 * https://discourse.matplotlib.org/
 * https://gitter.im/matplotlib/ 
 * https://github.com/matplotlib/matplotblog 
-* twitter.com/matplotlib
+* https://twitter.com/matplotlib
 * https://instagram.com/matplotart/
 
 ## Content Guidelines:
