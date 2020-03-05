@@ -267,7 +267,7 @@ interactions with NumFOCUS.
 Institutional Partners and Funding
 ==================================
 
-The BDFL and Steering Council are the primary leadership for the project. No
+The LD and Steering Council are the primary leadership for the project. No
 outside institution, individual or legal entity has the ability to own,
 control, usurp or influence the project other than by participating in the
 Project as Contributors and Council Members. However, because institutions are
@@ -309,7 +309,7 @@ raising money from private foundations and donors or a for-profit company
 building proprietary products and services that leverage Project Software and
 Services. Funding acquired by Institutional Partners to work on The Project is
 called Institutional Funding. However, no funding obtained by an Institutional
-Partner can override The Project BDFL and Steering Council. If a Partner has
+Partner can override The Project LD and Steering Council. If a Partner has
 funding to do Matplotlib work and the Council decides to not pursue that
 work as a project, the Partner is free to pursue it on their own. However in
 this situation, that part of the Partner’s work will not be under the
@@ -341,7 +341,7 @@ should state the final commit hash in the pull request being proposed
 for acceptance or rejection and briefly summarize the pull request. A
 minimum of 80% of the Steering Council must vote and at least 2/3 of
 the votes must be positive to carry out the proposed action (fractions
-of a vote rounded up to the nearest integer). Since the BDFL holds
-ultimate authority in The Project, the BDFL has authority to act alone
+of a vote rounded up to the nearest integer). Since the LD holds
+ultimate authority in The Project, the LD has authority to act alone
 in accepting or rejecting changes or overriding Steering Council
 decisions.
