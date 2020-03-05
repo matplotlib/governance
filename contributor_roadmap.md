@@ -14,8 +14,7 @@ help](https://help.github.com/en/github/setting-up-and-managing-organizations-an
 Full control of everything on GH
 **People:**
 - Lead developer, steering council
-- someone from NF (?)
-- someone from outside?
+
 
 Want to keep this set small enough that we don’t have too much
 unneeded attack surface area, but big enough that we don’t have single
