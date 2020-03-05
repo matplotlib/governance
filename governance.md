@@ -264,6 +264,36 @@ interactions with NumFOCUS.
     person.
 
 
+Deputy Lead Developers
+----------------------
+
+DLDs are nominated by Steering Council members and appointed to 1yr terms by a
+majority vote of the Steering council.  Any currently active Contributor is
+eligible to be considered for a DLD.  The Steering Council should take into account
+
+It is at the discretion of the SC and LD
+if any given DLD position is filled.
+
+If a DLD position is not filled, the responsibility devolves back to the LD.    Each
+DLD appointment runs on its own calendar.
+
+At the end of each year the DLD is given the option to continue for another year.
+
+The SC can remove a DLD using the same process as ejecting a Steering Council Member.
+
+An individual may hold more than one DLD simultaneously.
+
+### Release Manager
+
+
+### Narrative Documentation Lead
+
+### API Documentation Lead
+
+### Communication and Community Lead
+
+### API consistency Lead
+
 Institutional Partners and Funding
 ==================================
 
