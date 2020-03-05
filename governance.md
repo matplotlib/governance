@@ -286,18 +286,16 @@ in the United States or elsewhere that employs at least one Institutional
 Contributor or Institutional Council Member. Institutional Partners can be
 for-profit or non-profit entities.
 
-Institutions become eligible to become an Institutional Partner by
-employing individuals who actively contribute to The Project as part
-of their official duties. To state this another way, the only way for
-an Institutional Partner to influence the project is by actively
-contributing to the open development of the project, on equal terms
-with any other member of the community of Contributors and Council
-Members. Merely using Matplotlib Software or Services in an
-institutional context does not allow an entity to become an
-Institutional Partner. Financial gifts do not enable an entity to
-become an Institutional Partner. Once an institution becomes eligible
-for Institutional Partnership, the Steering Council must nominate and
-approve the Partnership.
+Institutions become eligible to become an Institutional Partner by employing
+individuals who actively contribute to The Project as part of their official
+duties. To state this another way, the only way for an Institutional Partner to
+influence the project is by actively contributing to the open development of the
+project, on equal terms with any other member of the community of Contributors
+and Council Members. Merely using Matplotlib Software in an institutional
+context does not allow an entity to become an Institutional Partner. Financial
+gifts do not enable an entity to become an Institutional Partner. Once an
+institution becomes eligible for Institutional Partnership, the Steering Council
+must nominate and approve the Partnership.
 
 If an existing Institutional Partner no longer has a contributing employee,
 they will be given a one-year grace period for other employees to begin
@@ -316,14 +314,13 @@ this situation, that part of the Partner’s work will not be under the
 Matplotlib umbrella and cannot use the Project trademarks in a way that
 suggests a formal relationship.
 
-To acknowledge institutional contributions, Institutional Partners
-receive the following benefits:
+To acknowledge institutional contributions, Institutional Partners receive the
+following benefits:
 
 -   Acknowledged on the Matplotlib websites, in talks and T-shirts.
--   Ability to acknowledge their own funding sources on the Matplotlib
-    websites, in talks and T-shirts.
--   Ability to influence the project through the participation of their Council
-    Member.
+-   Ability to acknowledge their own funding sources on the Matplotlib websites,
+    in talks and T-shirts.
+
 
 Changing the Governance Documents
 =================================
