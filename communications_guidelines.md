@@ -1,5 +1,5 @@
 # Communication Guidelines
-These guidelines are applicable when acting as a representitive of Matplotlib (for example at sprints or when giving official talks or tutorials) and on the following community venues managed by matplotlib:
+These guidelines are applicable when acting as a representitive of Matplotlib (for example at sprints or when giving official talks or tutorials) and in the following community venues managed by matplotlib:
 * https://github.com/matplotlib/matplotlib
 * https://discourse.matplotlib.org/
 * https://gitter.im/matplotlib/ 
@@ -15,7 +15,7 @@ These guidelines are applicable when acting as a representitive of Matplotlib (f
     - Instagram/blog: ensure mpl has right to repost/share content 
     - make sure content is clearly cited
         - example: a tutorial using someone else’s example clearly cites the original source
-- Limited self/corporate promotion is acceptable, but should be no more than 1/4? the content of the blog/discourse post? 
+- Limited self/corporate promotion is acceptable, but should be no more than about a quarter of the content of the blog/discourse post. 
 - if you think content is borderline, ask before publishing it 
 - keep responses polite, assume user statements are in good faith unless they violate the [Code of Conduct](https://www.python.org/psf/conduct/)
 - acceptable image guide:
