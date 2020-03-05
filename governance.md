@@ -217,12 +217,12 @@ interests include, but are not limited to:
 -   Access to proprietary information of their employer that could potentially
     leak into their work with the Project.
 
-All members of the Council, BDFL included, shall disclose to the rest of the
+All members of the Council, LD included, shall disclose to the rest of the
 Council any conflict of interest they may have. Members with a conflict of
 interest in a particular issue may participate in Council discussions on that
-issue, but must recuse themselves from voting on the issue. If the BDFL has
+issue, but must recuse themselves from voting on the issue. If the LD has
 recused themselves for a particular decision, they will appoint a substitute
-BDFL for that decision.
+LD for that decision.
 
 ### Private communications of the Council
 
