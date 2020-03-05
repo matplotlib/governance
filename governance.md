@@ -294,6 +294,13 @@ An individual may hold more than one DLD simultaneously.
 
 ### API consistency Lead
 
+Project Specific Leads
+----------------------
+
+Matplotlib has a number of domain specific packages under it's umbrella and
+hosted on the matplotlib github organizations.  These projects will each have
+their own Lead Developer who can run the projects as they see fit.
+
 Institutional Partners and Funding
 ==================================
 
