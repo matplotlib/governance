@@ -88,31 +88,32 @@ several Deputy Leads, and a Steering Council. We view this governance
 model as the formalization of what we are already doing, rather than a
 change in direction.
 
-BDFL
-----
+Lead developer
+--------------
 
-The Project will have a BDFL (Benevolent Dictator for Life), who is currently
-Thomas Caswell. As Dictator, the BDFL has the authority to make all final
-decisions for The Project. As Benevolent, the BDFL, in practice chooses to
-defer that authority to the consensus of the community discussion channels and
-the Steering Council (see below). It is expected, and in the past has been the
-case, that the BDFL will only rarely assert their final authority. Because
-rarely used, we refer to BDFL’s final authority as a “special” or “overriding”
-vote. When it does occur, the BDFL override typically happens in situations
-where there is a deadlock in the Steering Council or if the Steering Council
-asks the BDFL to make a decision on a specific matter. To ensure the
-benevolence of the BDFL, The Project encourages others to fork the project if
-they disagree with the overall direction the BDFL is taking. The BDFL is chair
-of the Steering Council (see below) and may delegate their authority on a
-particular decision or set of decisions to any other Council member at their
-discretion.
+The Project will have a Lead Developer (LD), who is currently Thomas A Caswell.
+The LD has the authority to make all final decisions for The Project.  In
+practice the LD chooses to defer that authority to the consensus of the
+community discussion channels and the Steering Council (see below).  It is
+expected, and in the past has been the case, that the LD will only rarely assert
+their final authority.  Because rarely used, we refer to LD’s final authority as
+a “special” or “overriding” vote.  When it does occur, the LD override typically
+happens in situations where there is a deadlock in the Steering Council or if
+the Steering Council asks the LD to make a decision on a specific matter.
 
-The BDFL can appoint their successor, but it is expected that the Steering
-Council would be consulted on this decision. If the BDFL is unable to appoint a
-successor, the Steering Council will make a suggestion or suggestions to the
-Main NumFOCUS Board. While the Steering Council and Main NumFOCUS Board will
-work together closely on the BDFL selection process, the Main NumFOCUS Board
-will make the final decision.
+The LD is chair of the Steering Council (see below) and may delegate their
+authority on a particular decision or set of decisions to any other Council
+member at their discretion.
+
+The LD can appoint their successor, but it is expected that the Steering Council
+would be consulted on this decision. If the LD is unable to appoint a successor,
+the Steering Council will make a suggestion or suggestions to the Main NumFOCUS
+Board. While the Steering Council and Main NumFOCUS Board will work together
+closely on the LD selection process, the Main NumFOCUS Board will make the final
+decision.
+
+To ensure the benevolence of the LD, The Project encourages others to fork the
+project if they disagree with the overall direction the LD is taking.
 
 Steering Council
 ----------------
