@@ -74,7 +74,7 @@ Project leadership was initially provided by the original author, John
 D. Hunter.  Shortly before his passing in 2012, leadership was
 transferred to Michael Droettboom, who later invited Thomas Caswell as
 a co-lead.  Additional leadership has also been provided by a subset
-of Contributors, called Developers, whose active and consistent
+of Contributors, called Developers, whose significant or consistent
 contributions have been recognized by their receiving “commit rights”
 to the Project repositories. In general all Project decisions are made
 through consensus among the Developers with input from the
