@@ -149,7 +149,6 @@ Full control of everything on GH
 **People:**
 - Lead developer, steering council
 
-
 Want to keep this set small enough that we don’t have too much
 unneeded attack surface area, but big enough that we don’t have single
 point of failure.
@@ -165,8 +164,17 @@ Manages the administration of the Matplotlib github repositories.
     - should decouple SC and admin power going forward
 
 **Responsibilities:**
-- add new repositories and teams to the matplotlib org
-- add members to Matplotlib teams
-- can delete / moderate issues
-
 - on a GH team that has “Admin” level permissions on all repositories
+
+## Domain Team Member
+We have a number of sub-teams to maintain domain specific packages
+
+**Responsibilities:**
+- maintain those projects
+- have at least write premission on the repos for that project
+
+## Organization Member
+**Responsibilities:**
+- Can create and add members to Matplotlib teams
+- Can delete / moderate issues
+- Can create new repositories
