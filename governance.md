@@ -156,42 +156,58 @@ contributor.
 
 To become eligible for being a Steering Council Member an individual must be a
 Project Contributor who has produced contributions that are substantial in
-quality and quantity, and sustained over at least one year. Potential Council
-Members are nominated by existing Council members and voted upon by the
-existing Council after asking if the potential Member is interested and willing
-to serve in that capacity. The Council will be initially formed through BDFL
-nomination from the set of existing Developers who meet the above criteria.
+quality and quantity, and sustained over at least one year.  Potential Council
+Members are nominated by existing Council members and voted upon by the existing
+Council after asking if the potential Member is interested and willing to serve
+in that capacity.  The Council will be initially formed through LD nomination
+from the set of existing Developers who meet the above criteria.
 
 When considering potential Members, the Council will look at candidates with a
-comprehensive view of their contributions. This will include but is not limited
+comprehensive view of their contributions.  This will include but is not limited
 to code, code review, infrastructure work, mailing list and chat participation,
-community help/building, education and outreach, design work, etc. We are
+community help/building, education and outreach, design work, etc.  We are
 deliberately not setting arbitrary quantitative metrics (like “100 commits in
 this repo”) to avoid encouraging behavior that plays to the metrics rather than
-the project’s overall well-being. We want to encourage a diverse array of
+the project’s overall well-being.  We want to encourage a diverse array of
 backgrounds, viewpoints and talents in our team, which is why we explicitly do
 not define code as the sole metric on which council membership will be
 evaluated.
 
-If a Council member becomes inactive in the project for a period of one year,
-they will be considered for removal from the Council. Before removal, inactive
-Member will be approached by the BDFL to see if they plan on returning to
-active participation. If not they will be removed immediately upon a Council
-vote. If they plan on returning to active participation soon, they will be
-given a grace period of one year. If they don’t return to active participation
-within that time period they will be removed by vote of the Council without
-further grace period. All former Council members can be considered for
-membership again at any time in the future, like any other Project Contributor.
-Retired Council members will be listed on the project website, acknowledging
-the period during which they were active in the Council.
+When invited to join the Steering Council Contributors are commiting to serve
+for 2 years.  At the end of the two years they may elect to, with consent of the
+rest of the council, re-join the council.  If they chose to not re-join the
+council the process above is used to recruit new members.
 
-The Council reserves the right to eject current Members, other than the BDFL,
-if they are deemed to be actively harmful to the project’s well-being, and
-attempts at communication and conflict resolution have failed.
+The Steering Council members, other than the LD, will serve in 2 equal classes
+whose terms are offset by 1 year.  This will help preserve the continuity on the
+Steering Council over time.
+
+A Steering Council member can step down at anytime.  If a Council Member becomes
+inactive for a period of 2 months, they will be approached by the LD to see if
+they plan on returning to active participation.  If not they will be asked to
+step down, if the Council Member indicates they intend to be active again but
+have not done so after 1 month the Council my vote to remove them.
+
+If a Council Member leaves the council early they may be replaced, using the
+same process as above.  Their replacement will join the same class and serve the
+remainder of the 2 years.
+
+Each class can fluctuate between 2 and 3 members so long as the total council
+size (including the LD) is between 5 and 7.  If a class gets too small, an
+additional member must be recruited.
+
+All former Council members can be considered for membership again at any time in
+the future, like any other Project Contributor. Retired Council members will be
+listed on the project website, acknowledging the period during which they were
+active in the Council.
+
+The Council reserves the right to eject current Members, other than the LD, if
+they are deemed to be actively harmful to the project’s well-being, and attempts
+at communication and conflict resolution have failed.
 
 ### Conflict of interest
 
-It is expected that the BDFL and Council Members will be employed at a wide
+It is expected that the LD, DLDs, and Council Members will be employed at a wide
 range of companies, universities and non-profit organizations. Because of this,
 it is possible that Members will have conflict of interests. Such conflict of
 interests include, but are not limited to:
