@@ -228,11 +228,12 @@ LD for that decision.
 
 Unless specifically required, all Council discussions and activities will be
 public and done in collaboration and discussion with the Project Contributors
-and Community. The Council will have a private mailing list that will be used
-sparingly and only when a specific matter requires privacy. When private
-communications and decisions are needed, the Council will do its best to
-summarize those to the Community after eliding personal/private/sensitive
-information that should not be posted to the public internet.
+and Community through the normal communication channels. The Council will have a
+private mailing list that will be used sparingly and only when a specific matter
+requires privacy. When private communications and decisions are needed, the
+Council will do its best to summarize those to the Community after eliding
+personal/private/sensitive information that should not be posted to the public
+internet.
 
 ### Subcommittees
 
