@@ -121,32 +121,35 @@ Steering Council
 The Project will have a Steering Council that consists of Project Contributors
 who have produced contributions that are substantial in quality and quantity,
 and sustained over at least one year. The overall role of the Council is to
-ensure, through working with the BDFL and taking input from the Community, the
-long-term well-being of the project, both technically and as a community.
+ensure, through working with the LD and taking input from the Community, the
+long-term well-being of the project, technically, financially, and as a
+community.
 
 During the everyday project activities, council members participate in all
 discussions, code review and other project activities as peers with all other
-Contributors and the Community. In these everyday activities, Council Members
-do not have any special power or privilege through their membership on the
+Contributors and the Community. In these everyday activities, Council Members do
+not have any special power or privilege through their membership on the
 Council. However, it is expected that because of the quality and quantity of
 their contributions and their expert knowledge of the Project Software and
 Services that Council Members will provide useful guidance, both technical and
 in terms of project direction, to potentially less experienced contributors.
 
-The Steering Council and its Members play a special role in certain situations.
-In particular, the Council may:
+The Steering Council and its Members play a special role in certain
+situations. In particular, the Council may:
 
--   Make decisions about the overall scope, vision and direction of the
-    project.
--   Make decisions about strategic collaborations with other organizations or
-    individuals.
--   Make decisions about the Services that are run by The Project and manage
-    those Services for the benefit of the Project and Community.
--   Granting or revoking commit rights.
--   Make decisions when regular community discussion doesn’t produce consensus
-    on an issue in a reasonable time frame.
--   Develop funding sources and spending money (see Finance sub
-    committee below).
+- Develop funding sources and spending money (see Finance sub committee below).
+- Make decisions about the overall scope, vision and direction of the project.
+- Make decisions about strategic collaborations with other organizations or
+  individuals.
+- Make decisions about the Services that are run by The Project and manage those
+  Services for the benefit of the Project and Community.
+- Make decisions when regular community discussion doesn’t produce consensus on
+  an issue in a reasonable time frame.
+- Granting or revoking commit rights.
+
+The steering council will be between 5 and 7 people including the LD.  Being on
+the steering council is a responsibilty, not a recongnition of being a long-time
+contributor.
 
 
 ### Council membership
