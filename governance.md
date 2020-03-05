@@ -30,7 +30,7 @@ Development Team (MDT)" in the project license.  Anyone can be a
 Contributor. Contributors can be affiliated with any legal entity or
 none. Contributors participate in the project by submitting, reviewing
 and discussing GitHub Pull Requests and Issues and participating in
-open and public Project discussions on GitHub, Google+, Hackpad,
+open and public Project discussions on GitHub, discourse, Hackpad,
 Gitter chat rooms and mailing lists. The foundation of Project
 participation is openness and transparency.
 
