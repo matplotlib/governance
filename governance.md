@@ -83,7 +83,7 @@ Community.
 While this approach has served us well, as the Project grows and faces
 more legal and financial decisions and interacts with other
 institutions, we see a need for a more formal governance model. Moving
-forward, the Project leadership will consist of a Lead Developer,
+forward, the Project leadership will consist of a Project Leader,
 several Deputy Leads, and a Steering Council. We view this governance
 model as the formalization of what we are already doing, rather than a
 change in direction.
@@ -91,29 +91,29 @@ change in direction.
 Lead developer
 --------------
 
-The Project will have a Lead Developer (LD), who is currently Thomas A Caswell.
-The LD has the authority to make all final decisions for The Project.  In
-practice the LD chooses to defer that authority to the consensus of the
+The Project will have a Project Leader (PL), who is currently Thomas A Caswell.
+The PL has the authority to make all final decisions for The Project.  In
+practice the PL chooses to defer that authority to the consensus of the
 community discussion channels and the Steering Council (see below).  It is
-expected, and in the past has been the case, that the LD will only rarely assert
-their final authority.  Because rarely used, we refer to LD’s final authority as
-a “special” or “overriding” vote.  When it does occur, the LD override typically
+expected, and in the past has been the case, that the PL will only rarely assert
+their final authority.  Because rarely used, we refer to PL’s final authority as
+a “special” or “overriding” vote.  When it does occur, the PL override typically
 happens in situations where there is a deadlock in the Steering Council or if
-the Steering Council asks the LD to make a decision on a specific matter.
+the Steering Council asks the PL to make a decision on a specific matter.
 
-The LD is chair of the Steering Council (see below) and may delegate their
+The PL is chair of the Steering Council (see below) and may delegate their
 authority on a particular decision or set of decisions to any other Council
 member at their discretion.
 
-The LD can appoint their successor, but it is expected that the Steering Council
-would be consulted on this decision. If the LD is unable to appoint a successor,
+The PL can appoint their successor, but it is expected that the Steering Council
+would be consulted on this decision. If the PL is unable to appoint a successor,
 the Steering Council will make a suggestion or suggestions to the Main NumFOCUS
 Board. While the Steering Council and Main NumFOCUS Board will work together
-closely on the LD selection process, the Main NumFOCUS Board will make the final
+closely on the PL selection process, the Main NumFOCUS Board will make the final
 decision.
 
-To ensure the benevolence of the LD, The Project encourages others to fork the
-project if they disagree with the overall direction the LD is taking.
+To ensure the benevolence of the PL, The Project encourages others to fork the
+project if they disagree with the overall direction the PL is taking.
 
 Steering Council
 ----------------
@@ -121,7 +121,7 @@ Steering Council
 The Project will have a Steering Council that consists of Project Contributors
 who have produced contributions that are substantial in quality and quantity,
 and sustained over at least one year. The overall role of the Council is to
-ensure, through working with the LD and taking input from the Community, the
+ensure, through working with the PL and taking input from the Community, the
 long-term well-being of the project, technically, financially, and as a
 community.
 
@@ -147,7 +147,7 @@ situations. In particular, the Council may:
   an issue in a reasonable time frame.
 - Granting or revoking commit rights.
 
-The steering council will be between 5 and 7 people including the LD.  Being on
+The steering council will be between 5 and 7 people including the PL.  Being on
 the steering council is a responsibilty, not a recongnition of being a long-time
 contributor.
 
@@ -159,7 +159,7 @@ Project Contributor who has produced contributions that are substantial in
 quality and quantity, and sustained over at least one year.  Potential Council
 Members are nominated by existing Council members and voted upon by the existing
 Council after asking if the potential Member is interested and willing to serve
-in that capacity.  The Council will be initially formed through LD nomination
+in that capacity.  The Council will be initially formed through PL nomination
 from the set of existing Developers who meet the above criteria.
 
 When considering potential Members, the Council will look at candidates with a
@@ -178,12 +178,12 @@ for 2 years.  At the end of the two years they may elect to, with consent of the
 rest of the council, re-join the council.  If they chose to not re-join the
 council the process above is used to recruit new members.
 
-The Steering Council members, other than the LD, will serve in 2 equal classes
+The Steering Council members, other than the PL, will serve in 2 equal classes
 whose terms are offset by 1 year.  This will help preserve the continuity on the
 Steering Council over time.
 
 A Steering Council member can step down at anytime.  If a Council Member becomes
-inactive for a period of 2 months, they will be approached by the LD to see if
+inactive for a period of 2 months, they will be approached by the PL to see if
 they plan on returning to active participation.  If not they will be asked to
 step down, if the Council Member indicates they intend to be active again but
 have not done so after 1 month the Council my vote to remove them.
@@ -193,7 +193,7 @@ same process as above.  Their replacement will join the same class and serve the
 remainder of the 2 years.
 
 Each class can fluctuate between 2 and 3 members so long as the total council
-size (including the LD) is between 5 and 7.  If a class gets too small, an
+size (including the PL) is between 5 and 7.  If a class gets too small, an
 additional member must be recruited.
 
 All former Council members can be considered for membership again at any time in
@@ -201,13 +201,13 @@ the future, like any other Project Contributor. Retired Council members will be
 listed on the project website, acknowledging the period during which they were
 active in the Council.
 
-The Council reserves the right to eject current Members, other than the LD, if
+The Council reserves the right to eject current Members, other than the PL, if
 they are deemed to be actively harmful to the project’s well-being, and attempts
 at communication and conflict resolution have failed.
 
 ### Conflict of interest
 
-It is expected that the LD, DLDs, and Council Members will be employed at a wide
+It is expected that the PL, DPLs, and Council Members will be employed at a wide
 range of companies, universities and non-profit organizations. Because of this,
 it is possible that Members will have conflict of interests. Such conflict of
 interests include, but are not limited to:
@@ -217,12 +217,12 @@ interests include, but are not limited to:
 -   Access to proprietary information of their employer that could potentially
     leak into their work with the Project.
 
-All members of the Council, LD included, shall disclose to the rest of the
+All members of the Council, PL included, shall disclose to the rest of the
 Council any conflict of interest they may have. Members with a conflict of
 interest in a particular issue may participate in Council discussions on that
-issue, but must recuse themselves from voting on the issue. If the LD has
+issue, but must recuse themselves from voting on the issue. If the PL has
 recused themselves for a particular decision, they will appoint a substitute
-LD for that decision.
+PL for that decision.
 
 ### Private communications of the Council
 
@@ -264,24 +264,24 @@ interactions with NumFOCUS.
     person.
 
 
-Deputy Lead Developers
+Deputy Project Leaders
 ----------------------
 
-DLDs are nominated by Steering Council members and appointed to 1yr terms by a
+DPLs are nominated by Steering Council members and appointed to 1yr terms by a
 majority vote of the Steering council.  Any currently active Contributor is
-eligible to be considered for a DLD.  The Steering Council should take into account
+eligible to be considered for a DPL.  The Steering Council should take into account
 
-It is at the discretion of the SC and LD
-if any given DLD position is filled.
+It is at the discretion of the SC and PL
+if any given DPL position is filled.
 
-If a DLD position is not filled, the responsibility devolves back to the LD.    Each
-DLD appointment runs on its own calendar.
+If a DPL position is not filled, the responsibility devolves back to the PL.    Each
+DPL appointment runs on its own calendar.
 
-At the end of each year the DLD is given the option to continue for another year.
+At the end of each year the DPL is given the option to continue for another year.
 
-The SC can remove a DLD using the same process as ejecting a Steering Council Member.
+The SC can remove a DPL using the same process as ejecting a Steering Council Member.
 
-An individual may hold more than one DLD simultaneously.
+An individual may hold more than one DPL simultaneously.
 
 ### Release Manager
 
@@ -299,12 +299,12 @@ Project Specific Leads
 
 Matplotlib has a number of domain specific packages under it's umbrella and
 hosted on the matplotlib github organizations.  These projects will each have
-their own Lead Developer who can run the projects as they see fit.
+their own Project Leader who can run the projects as they see fit.
 
 Institutional Partners and Funding
 ==================================
 
-The LD and Steering Council are the primary leadership for the project. No
+The PL and Steering Council are the primary leadership for the project. No
 outside institution, individual or legal entity has the ability to own,
 control, usurp or influence the project other than by participating in the
 Project as Contributors and Council Members. However, because institutions are
@@ -344,7 +344,7 @@ raising money from private foundations and donors or a for-profit company
 building proprietary products and services that leverage Project Software and
 Services. Funding acquired by Institutional Partners to work on The Project is
 called Institutional Funding. However, no funding obtained by an Institutional
-Partner can override The Project LD and Steering Council. If a Partner has
+Partner can override The Project PL and Steering Council. If a Partner has
 funding to do Matplotlib work and the Council decides to not pursue that
 work as a project, the Partner is free to pursue it on their own. However in
 this situation, that part of the Partner’s work will not be under the
@@ -374,6 +374,6 @@ Member should state the final commit hash in the pull request being proposed for
 acceptance or rejection and briefly summarize the pull request. The full
 Steering Council must vote and at least 2/3 of the votes must be positive to
 carry out the proposed action (fractions of a vote rounded up to the nearest
-integer). Since the LD holds ultimate authority in The Project, the LD has
+integer). Since the PL holds ultimate authority in The Project, the PL has
 authority to act alone in accepting or rejecting changes or overriding Steering
 Council decisions.
