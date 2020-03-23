@@ -267,39 +267,154 @@ interactions with NumFOCUS.
 Deputy Project Leaders
 ----------------------
 
-DPLs are nominated by Steering Council members and appointed to 1yr terms by a
-majority vote of the Steering council.  Any currently active Contributor is
-eligible to be considered for a DPL.  The Steering Council should take into account
+DPLs (except for Release Manager) are nominated by Steering Council
+members and appointed to a 1yr term from their appointment date by a
+majority vote of the Steering council.  Any currently active
+Contributor is eligible to be considered for a DPL.
 
-It is at the discretion of the SC and PL
-if any given DPL position is filled.
-
-If a DPL position is not filled, the responsibility devolves back to the PL.    Each
-DPL appointment runs on its own calendar.
-
-At the end of each year the DPL is given the option to continue for another year.
-
-The SC can remove a DPL using the same process as ejecting a Steering Council Member.
+As with the PL, the DPL should strive to reach consensus about any
+issues with in their scope before invoking their authority to decide.
+Their decisions can be appealed to the PL, but the PL should defer to
+the DPL except in extraordinary circumstances.
 
 An individual may hold more than one DPL simultaneously.
 
-### Release Manager
+It is at the discretion of the SC and PL if any given DPL position is
+filled.
+
+If a DPL position is not filled, the responsibility devolves back to
+the PL.
+
+At each 1yr term a DPL has the option to continue for another year or
+step down.
+
+The SC can remove a DPL using the same process as ejecting a Steering
+Council Member.
+
+The SC can create a new DPL position or eliminate an unfilled DPL
+position by majority vote.
 
 
-### Narrative Documentation Lead
+### Release Manager(s)
 
-### API Documentation Lead
+The Release Manager (RM) is appointed for a minor version (A.B.x)
+release series of Matplotlib.  They are responsible for the full
+release life cycle of all minor releases in the series including:
 
-### Communication and Community Lead
+- ensuring the whats new, API changes, and release notes are up to date
+- the timing of the releases
+- what changes should or should not be backported from the master
+  branch
+- rebuilding and publishing the website
+- announcing the release
+- publishing sdist and wheels to pypi
+- notifying down-stream packagers of the release
 
-### API consistency Lead
+An individual can be the RM as more than one release series at the
+same time.
+
+
+### Narrative Documentation Manager
+
+Matplotlib has a tremendous amount of documentation that is narrative
+in form.  This includes our examples and tutorials that live inside the
+main source repository and longer tutorials that live in other repositories
+in the Matplotlib organization.
+
+The Narrative Documentation Matplotlib (NDM) is responsible for
+shepherding all of this content including the scope, level, tone, and
+voice.
+
+### Reference Documentation Manager
+
+Matplotlib also has a tremendous amount of reference documentation
+embedded in doc strings.  This documentation needs to be complete and
+accurate as our users rely on it as the last authority of what a given
+method will do (short of reading the source).
+
+The Reference Documentation Manager (RDM) is responsible for ensuring that
+the docstrings are:
+
+- correctly formatted and render as intended
+- technically correct
+- complete
+
+### Community Manager
+
+The true strength of Matplotlib and why it has had such longevity as a
+project is the community of people around the code.  That community
+needs to be maintained.  The Community Manager (CM) is the is a
+catch-all for several very diverse tasks and this role may be split
+in the future and may want to enlist further assistants.
+
+**Communications**
+
+We need to maintain communication channels with the wider world.  To this end
+the CM is responsible for maintaining:
+
+- Matplotlib's social media presence
+- The Matplotlib blog
+- Recruiting people to give talks on Matplotlib at conferences / meetups
+- Maintaining a "matplotlib update" slide deck
+- the [Ann] mailing list
+
+This communication is primarily broadcast out and intended to engage
+with end-users.
+
+**Developer Relations**
+
+In addition to communication to end-users we need to maintain
+communication channels to developers of down-stream libraries and
+other expert users.
+
+- GSOC/mentoring programs
+- Recruiting people to run sprints
+- interaction with 3rd party extensions / publicity
+- [user]/[dev] mailing list moderation
+- Managing the discourse
+- recruiting new contributors
+
+**Event and Meeting planning**
+
+From time to time Matplotlib as an organization has in-person
+meetings.
+
+
+### API consistency Leader
+
+Matplotlib is constantly making small changes to our API: enhancements
+that add new features, bug fixes that unavoidably change behavior, and
+deprecation of inconsistent or undesired functionality.  The API
+Consistency Leader (ACL) is responsible for making sure that these
+incremental changes to the library are done in a coherent and
+consistent manner.
+
+This include checking that:
+
+- new functionality is not duplicating existing functionality
+- deprecations are justified and properly documented
+- new functionality does not "paint us into a corner" for future work
+- new functionality is implemented with an API that is consistent with
+  the existing functions
+
+
+### Secretary
+- Responsible for maintaining the weekly notes
+- Responsible for ensuring that any decisions taken by vote in the SC
+  are properly recorded.
 
 Project Specific Leads
 ----------------------
 
 Matplotlib has a number of domain specific packages under it's umbrella and
 hosted on the matplotlib github organizations.  These projects will each have
-their own Project Leader who can run the projects as they see fit.
+their own Project Leader who can run the projects as they see fit consistent with
+the Matplotlib Code of Conduct.
+
+If a project would like to be hosted on the Matplotlib organization on
+GitHub, they can petition the SC and be accepted by a simple majority
+vote.  A project can leave the organization at any time and can be
+removed from the organization by an 2/3 majority vote of the SC.
 
 Institutional Partners and Funding
 ==================================
