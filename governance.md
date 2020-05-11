@@ -399,6 +399,8 @@ This include checking that:
 
 
 ### Secretary
+- Responsible for ensure that there is an agenda for the weekly
+  meeting at it is followed.
 - Responsible for maintaining the weekly notes
 - Responsible for ensuring that any decisions taken by vote in the SC
   are properly recorded.
