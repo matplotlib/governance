@@ -1,5 +1,5 @@
 # Communication Guidelines
-These guidelines are applicable when acting as a representitive of Matplotlib (for example at sprints or when giving official talks or tutorials) and in the following community venues managed by matplotlib:
+These guidelines are applicable when acting as a representative of Matplotlib (for example at sprints or when giving official talks or tutorials) and in the following community venues managed by Matplotlib:
 * https://github.com/matplotlib/matplotlib
 * https://discourse.matplotlib.org/
 * https://gitter.im/matplotlib/ 
@@ -9,7 +9,7 @@ These guidelines are applicable when acting as a representitive of Matplotlib (f
 
 ## Content Guidelines:
 - stick to Matplotlib, 3rd party packages, and visualizations made with Matplotlib
-- also acceptable topics: Python, Visualization, Numfocus libraries
+- also acceptable topics: Python, Visualization, NumFOCUS libraries
 - no gratuitous disparaging of other visualization libraries and tools; criticism is acceptable so long as it serves a constructive purpose
 - follow visualization communication best practices
     - don't share non-expert visualizations when it could be harmful
