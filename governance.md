@@ -317,7 +317,23 @@ The Narrative Documentation Matplotlib (NDM) is responsible for
 shepherding all of this content including the scope, level, tone, and
 voice.
 
-### Reference Documentation Manager
+### API consistency and Reference Documentation Leader
+
+Matplotlib is constantly making small changes to our API: enhancements
+that add new features, bug fixes that unavoidably change behavior, and
+deprecation of inconsistent or undesired functionality.  The API
+Consistency Leader (ACL) is responsible for making sure that these
+incremental changes to the library are done in a coherent and
+consistent manner.
+
+This include checking that:
+
+- new functionality is not duplicating existing functionality
+- deprecations are justified and properly documented
+- new functionality does not "paint us into a corner" for future work
+- new functionality is implemented with an API that is consistent with
+  the existing functions
+
 
 Matplotlib also has a tremendous amount of reference documentation
 embedded in doc strings.  This documentation needs to be complete and
@@ -374,22 +390,6 @@ From time to time Matplotlib as an organization has in-person
 meetings.
 
 
-### API consistency Leader
-
-Matplotlib is constantly making small changes to our API: enhancements
-that add new features, bug fixes that unavoidably change behavior, and
-deprecation of inconsistent or undesired functionality.  The API
-Consistency Leader (ACL) is responsible for making sure that these
-incremental changes to the library are done in a coherent and
-consistent manner.
-
-This include checking that:
-
-- new functionality is not duplicating existing functionality
-- deprecations are justified and properly documented
-- new functionality does not "paint us into a corner" for future work
-- new functionality is implemented with an API that is consistent with
-  the existing functions
 ### Secretary
 
 - Responsible for ensure that there is an agenda for the weekly meeting at it is
