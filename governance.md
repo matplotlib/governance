@@ -88,8 +88,8 @@ several Deputy Leads, and a Steering Council. We view this governance
 model as the formalization of what we are already doing, rather than a
 change in direction.
 
-Lead developer
---------------
+Project Lead
+------------
 
 The Project will have a Project Leader (PL), who is currently Thomas A Caswell.
 The PL has the authority to make all final decisions for The Project.  In
