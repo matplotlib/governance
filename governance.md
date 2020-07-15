@@ -264,38 +264,33 @@ interactions with NumFOCUS which will include external members.
 Deputy Project Leaders
 ----------------------
 
-DPLs (except for Release Manager) are nominated by Steering Council
-members and appointed to a 1yr term from their appointment date by a
-majority vote of the Steering council.  Any currently active
-Contributor is eligible to be considered for a DPL.
-
-As with the PL, the DPL should strive to reach consensus about any
-issues with in their scope before invoking their authority to decide.
-Their decisions can be appealed to the PL, but the PL should defer to
-the DPL except in extraordinary circumstances.
-
-An individual may hold more than one DPL simultaneously.
-
-It is at the discretion of the SC and PL if any given DPL position is
-filled.
-
-If a DPL position is not filled, the responsibility devolves back to
+Deputy Project Leaders (DPL) have pre-deletegated authority to make decisions
+within their area of responsibility.  As with the PL, the DPL should strive to
+reach consensus before invoking their authority.  Decisions by the DPL can be
+appealed to the PL, but the presumption is that the PL will defer to the DPL
+except in extraordinary circumstances.  Disputes between DPLs will be settled by
 the PL.
 
-At each 1yr term a DPL has the option to continue for another year or
-step down.
+DPLs are nominated by Steering Council members and appointed to a 1yr term
+(except for Release Manager) from their appointment date by a majority vote of
+the Steering council. At each 1yr term a DPL has the option to continue for
+another year or step down.  The SC can remove a DPL using the same process as
+ejecting a Steering Council Member.
 
-The SC can remove a DPL using the same process as ejecting a Steering
-Council Member.
+At the discretion of the SC and PL a DPL position may not be filled with the
+responsibility devolves back to the PL.  The SC can create a new DPL position or
+eliminate an unfilled DPL position by majority vote.
 
-The SC can create a new DPL position or eliminate an unfilled DPL
-position by majority vote.
+Any currently active Contributor is eligible to be considered for a DPL and an
+individual may hold more than one DPL simultaneously.
+
+These roles are
 
 
 ### Release Manager(s)
 
-The Release Manager (RM) is appointed for a minor version (A.B.x)
-release series of Matplotlib.  They are responsible for the full
+The Release Manager (RM) is appointed for a minor version (A.B.x) release series
+of Matplotlib (instead of a fixed term).  They are responsible for the full
 release life cycle of all minor releases in the series including:
 
 - ensuring the whats new, API changes, and release notes are up to date
@@ -307,7 +302,7 @@ release life cycle of all minor releases in the series including:
 - publishing sdist and wheels to pypi
 - notifying down-stream packagers of the release
 
-An individual can be the RM as more than one release series at the
+An individual may be the RM as more than one release series at the
 same time.
 
 
@@ -336,6 +331,7 @@ the docstrings are:
 - technically correct
 - complete
 
+
 ### Community Manager
 
 The true strength of Matplotlib and why it has had such longevity as a
@@ -349,14 +345,14 @@ in the future and may want to enlist further assistants.
 We need to maintain communication channels with the wider world.  To this end
 the CM is responsible for maintaining:
 
-- Matplotlib's social media presence
-- The Matplotlib blog
-- Recruiting people to give talks on Matplotlib at conferences / meetups
-- Maintaining a "matplotlib update" slide deck
 - the [Ann] mailing list
+- The Matplotlib blog
+- Maintaining a "matplotlib update" slide deck
+- Recruiting people to give talks on Matplotlib at conferences / meetups
+- Matplotlib's social media presence
 
-This communication is primarily broadcast out and intended to engage
-with end-users.
+This communication is primarily broadcast out and intended to engage with
+end-users.
 
 **Developer Relations**
 
@@ -364,12 +360,13 @@ In addition to communication to end-users we need to maintain
 communication channels to developers of down-stream libraries and
 other expert users.
 
-- GSOC/mentoring programs
-- Recruiting people to run sprints
 - interaction with 3rd party extensions / publicity
-- [user]/[dev] mailing list moderation
-- Managing the discourse
 - recruiting new contributors
+- Recruiting people to run sprints
+- GSOC/mentoring programs
+- Managing the discourse
+- [user]/[dev] mailing list moderation
+
 
 **Event and Meeting planning**
 
@@ -393,14 +390,14 @@ This include checking that:
 - new functionality does not "paint us into a corner" for future work
 - new functionality is implemented with an API that is consistent with
   the existing functions
-
-
 ### Secretary
-- Responsible for ensure that there is an agenda for the weekly
-  meeting at it is followed.
-- Responsible for maintaining the weekly notes
-- Responsible for ensuring that any decisions taken by vote in the SC
-  are properly recorded.
+
+- Responsible for ensure that there is an agenda for the weekly meeting at it is
+  followed.
+- Responsible for maintaining the weekly notes.
+- Responsible for ensuring that decisions taken by vote in the SC are properly
+  recorded.
+
 
 Project Specific Leads
 ----------------------
