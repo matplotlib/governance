@@ -261,6 +261,15 @@ interactions with NumFOCUS which will include external members.
   Subcommittee through employment or contracting work. This avoids effective
   majorities resting on one person.
 
+### Code of Conduct Subcommittee
+
+This committee should be between 3 and 7 people, at least one of whom is on the
+steering council and at least one who is not.  This committee in responsible for
+fielding and addressing CoC reports that happen within our digital and physical
+spaces.  They will maintain their own private mailing list and reporting
+address.  Detailed policy on how to handle CoC will be documented elsewhere.
+
+
 Deputy Project Leaders
 ----------------------
 
