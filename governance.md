@@ -241,28 +241,25 @@ The Council can create subcommittees that provide leadership and guidance for
 specific aspects of the project. Like the Council as a whole, subcommittees
 should conduct their business in an open and public manner unless privacy is
 specifically called for. Private subcommittee communications should happen on
-the main private mailing list of the Council unless specifically called for.
+the main private mailing list of the Council unless specifically called for or
+having external members.
 
 ### NumFOCUS Subcommittee
 
 The Council will maintain one narrowly focused subcommittee to manage its
-interactions with NumFOCUS.
+interactions with NumFOCUS which will include external members.
 
--   The NumFOCUS Subcommittee is comprised of 4 persons who manage project
-    funding that comes through NumFOCUS. It is expected that these funds will
-    be spent in a manner that is consistent with the non-profit mission of
-    NumFOCUS and the direction of the Project as determined by the full
-    Council.
--   This Subcommittee shall NOT make decisions about the direction, scope or
-    technical direction of the Project.
--   This Subcommittee will have 4 members, at least 2 of whom are
-    also on the Steering Council and 1 of whom will be external to the
-    Steering Council. No Subcommitee Member can report to the same
-    person as any other member of the Subcommittee through employment
-    or contracting work (including the reportee, i.e. the reportee + 1
-    is the max). This avoids effective majorities resting on one
-    person.
-
+- The NumFOCUS Subcommittee is comprised of 4 persons who manage project
+  funding that comes through NumFOCUS. It is expected that these funds will be
+  spent in a manner that is consistent with the non-profit mission of NumFOCUS
+  and the direction of the Project as determined by the full Council.
+- This Subcommittee shall NOT make decisions about the direction, scope or
+  technical direction of the Project.
+- This Subcommittee will have 4 members, at least 2 of whom are also on the
+  Steering Council and 1 of whom will be external to the Steering Council. No
+  Subcommitee Member can report to the same person as any other member of the
+  Subcommittee through employment or contracting work. This avoids effective
+  majorities resting on one person.
 
 Deputy Project Leaders
 ----------------------
