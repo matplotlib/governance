@@ -9,18 +9,16 @@ section below, is contained in The Project Governance Repository at:
 The Project
 ===========
 
-The Matplotlib Project (The Project) is an open source software
-project affiliated with the [NumFOCUS](https://numfocus.org)
-Foundation. The goal of The Project is to develop open source software
-and deploy open and public websites and services for data
-visualization. The Software developed by The Project is released under
-the BSD (or similar permissive) open source license, developed openly
-and hosted in public GitHub repositories under the
-[Matplotlib GitHub organization](https://github.com/matplotlib). Examples
-of Project Software include the matplotlib library for data
-visualization and its associated extensions and dependencies.  The
-Services run by the Project consist of public websites and
-web-services that are hosted under the matplotlib.org domain.
+The Matplotlib Project (The Project) is an open source software project
+affiliated with the [NumFOCUS](https://numfocus.org) Foundation. The goal of The
+Project is to develop open source software and deploy open and public websites
+and services for data visualization. The Software developed by The Project is
+released under the a BSD (or similar permissive) open source license, developed
+openly and hosted in public GitHub repositories under the [Matplotlib GitHub
+organization](https://github.com/matplotlib). Examples of Project Software
+include the Matplotlib library for data visualization and its associated
+extensions and dependencies.  The Services run by the Project consist of public
+websites and web-services that are hosted under the matplotlib.org domain.
 
 The Project is developed by a team of distributed developers, called
 Contributors. Contributors are individuals who have contributed code,
@@ -72,7 +70,7 @@ The foundations of Project governance are:
 
 Project leadership was initially provided by the original author, John
 D. Hunter.  Shortly before his passing in 2012, leadership was
-transferred to Michael Droettboom, who later invited Thomas Caswell as
+transferred to Michael Droettboom, who later invited Thomas A Caswell as
 a co-lead.  Additional leadership has also been provided by a subset
 of Contributors, called Developers, whose significant or consistent
 contributions have been recognized by their receiving “commit rights”
@@ -94,12 +92,13 @@ Project Lead
 The Project will have a Project Leader (PL), who is currently Thomas A Caswell.
 The PL has the authority to make all final decisions for The Project.  In
 practice the PL chooses to defer that authority to the consensus of the
-community discussion channels and the Steering Council (see below).  It is
-expected, and in the past has been the case, that the PL will only rarely assert
-their final authority.  Because rarely used, we refer to PL’s final authority as
-a “special” or “overriding” vote.  When it does occur, the PL override typically
-happens in situations where there is a deadlock in the Steering Council or if
-the Steering Council asks the PL to make a decision on a specific matter.
+community discussion channels, the Deputy Project Leads, and the Steering
+Council (see below).  It is expected, and in the past has been the case, that
+the PL will only rarely assert their final authority.  Because rarely used, we
+refer to PL’s final authority as a “special” or “overriding” vote.  When it does
+occur, the PL override typically happens in situations where there is a deadlock
+in the Steering Council or if the Steering Council asks the PL to make a
+decision on a specific matter.
 
 The PL is chair of the Steering Council (see below) and may delegate their
 authority on a particular decision or set of decisions to any other Council
@@ -137,7 +136,7 @@ in terms of project direction, to potentially less experienced contributors.
 The Steering Council and its Members play a special role in certain
 situations. In particular, the Council may:
 
-- Develop funding sources and spending money (see Finance sub committee below).
+- Developing funding sources and spending money (see Finance sub committee below).
 - Make decisions about the overall scope, vision and direction of the project.
 - Make decisions about strategic collaborations with other organizations or
   individuals.
@@ -165,13 +164,13 @@ from the set of existing Developers who meet the above criteria.
 When considering potential Members, the Council will look at candidates with a
 comprehensive view of their contributions.  This will include but is not limited
 to code, code review, infrastructure work, mailing list and chat participation,
-community help/building, education and outreach, design work, etc.  We are
-deliberately not setting arbitrary quantitative metrics (like “100 commits in
-this repo”) to avoid encouraging behavior that plays to the metrics rather than
-the project’s overall well-being.  We want to encourage a diverse array of
-backgrounds, viewpoints and talents in our team, which is why we explicitly do
-not define code as the sole metric on which council membership will be
-evaluated.
+community help/building, education and outreach, grant writing, and design
+work..  We are deliberately not setting arbitrary quantitative metrics (like
+“100 commits in this repo”) to avoid encouraging behavior that plays to the
+metrics rather than the project’s overall well-being.  We want to encourage a
+diverse array of backgrounds, viewpoints and talents in our team, which is why
+we explicitly do not define code as the sole metric on which council membership
+will be evaluated.
 
 When invited to join the Steering Council Contributors are commiting to serve
 for 2 years.  At the end of the two years they may elect to, with consent of the
@@ -203,7 +202,7 @@ active in the Council.
 
 The Council reserves the right to eject current Members, other than the PL, if
 they are deemed to be actively harmful to the project’s well-being, and attempts
-at communication and conflict resolution have failed.
+at communication and conflict resolution have failed, from The Project.
 
 ### Conflict of interest
 
