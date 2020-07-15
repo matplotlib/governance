@@ -109,7 +109,8 @@ would be consulted on this decision. If the PL is unable to appoint a successor,
 the Steering Council will make a suggestion or suggestions to the Main NumFOCUS
 Board. While the Steering Council and Main NumFOCUS Board will work together
 closely on the PL selection process, the Main NumFOCUS Board will make the final
-decision.
+decision.  The NumFOCUS board may in extenuating circumstances remove the PL
+from the project.
 
 To ensure the benevolence of the PL, The Project encourages others to fork the
 project if they disagree with the overall direction the PL is taking.
