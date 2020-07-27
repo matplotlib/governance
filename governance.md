@@ -64,9 +64,9 @@ This section describes the governance and leadership model of The Project.
 
 The foundations of Project governance are:
 
--   Openness & Transparency
--   Active Contribution
--   Institutional Neutrality
+- Openness & Transparency
+- Active Contribution
+- Institutional Neutrality
 
 Project leadership was initially provided by the original author, John
 D. Hunter.  Shortly before his passing in 2012, leadership was
@@ -137,7 +137,8 @@ in terms of project direction, to potentially less experienced contributors.
 The Steering Council and its Members play a special role in certain
 situations. In particular, the Council may:
 
-- Developing funding sources and spending money (see Finance sub committee below).
+- Develop funding sources and determine how the money is spent (see Finance sub
+  committee below).
 - Make decisions about the overall scope, vision and direction of the project.
 - Make decisions about strategic collaborations with other organizations or
   individuals.
@@ -165,11 +166,11 @@ from the set of existing Developers who meet the above criteria.
 When considering potential Members, the Council will look at candidates with a
 comprehensive view of their contributions.  This will include but is not limited
 to code, code review, infrastructure work, mailing list and chat participation,
-community help/building, education and outreach, grant writing, and design
-work..  We are deliberately not setting arbitrary quantitative metrics (like
-“100 commits in this repo”) to avoid encouraging behavior that plays to the
-metrics rather than the project’s overall well-being.  We want to encourage a
-diverse array of backgrounds, viewpoints and talents in our team, which is why
+community building, user and developer support, education and outreach, grant
+writing, and design work.  We are deliberately not setting quantitative metrics
+(like “100 commits in this repo”) to avoid encouraging behavior that plays to
+the metrics rather than the project’s overall well-being.  We want to encourage
+a diverse array of backgrounds, viewpoints and talents in our team, which is why
 we explicitly do not define code as the sole metric on which council membership
 will be evaluated.
 
@@ -186,7 +187,7 @@ A Steering Council member can step down at anytime.  If a Council Member becomes
 inactive for a period of 2 months, they will be approached by the PL to see if
 they plan on returning to active participation.  If not they will be asked to
 step down, if the Council Member indicates they intend to be active again but
-have not done so after 1 month the Council my vote to remove them.
+have not done so after 1 month the Council may vote to remove them.
 
 If a Council Member leaves the council early they may be replaced, using the
 same process as above.  Their replacement will join the same class and serve the
@@ -286,20 +287,19 @@ the Steering council. At each 1yr term a DPL has the option to continue for
 another year or step down.  The SC can remove a DPL using the same process as
 ejecting a Steering Council Member.
 
-At the discretion of the SC and PL a DPL position may not be filled with the
-responsibility devolves back to the PL.  The SC can create a new DPL position or
-eliminate an unfilled DPL position by majority vote.
+At the discretion of the SC and PL a DPL position may not be filled in which
+case the responsibility devolves back to the PL.  The SC can create a new DPL
+position, eliminate an unfilled DPL position, or change the description of a
+position by majority vote.
 
 Any currently active Contributor is eligible to be considered for a DPL and an
 individual may hold more than one DPL simultaneously.
-
-These roles are
 
 
 ### Release Manager(s)
 
 The Release Manager (RM) is appointed for a minor version (A.B.x) release series
-of Matplotlib (instead of a fixed term).  They are responsible for the full
+of Matplotlib rather than for a fixed term.  They are responsible for the full
 release life cycle of all minor releases in the series including:
 
 - ensuring the whats new, API changes, and release notes are up to date
@@ -307,26 +307,15 @@ release life cycle of all minor releases in the series including:
 - what changes should or should not be backported from the master
   branch
 - rebuilding and publishing the website
-- announcing the release
 - publishing sdist and wheels to pypi
 - notifying down-stream packagers of the release
+- announcing the release (in coordination with the Community Manager)
 
 An individual may be the RM as more than one release series at the
 same time.
 
 
-### Narrative Documentation Manager
-
-Matplotlib has a tremendous amount of documentation that is narrative
-in form.  This includes our examples and tutorials that live inside the
-main source repository and longer tutorials that live in other repositories
-in the Matplotlib organization.
-
-The Narrative Documentation Matplotlib (NDM) is responsible for
-shepherding all of this content including the scope, level, tone, and
-voice.
-
-### API consistency and Reference Documentation Leader
+### API consistency Leader
 
 Matplotlib is constantly making small changes to our API: enhancements
 that add new features, bug fixes that unavoidably change behavior, and
@@ -344,26 +333,52 @@ This include checking that:
   the existing functions
 
 
-Matplotlib also has a tremendous amount of reference documentation
-embedded in doc strings.  This documentation needs to be complete and
-accurate as our users rely on it as the last authority of what a given
-method will do (short of reading the source).
+### Reference Documentation Leader
 
-The Reference Documentation Manager (RDM) is responsible for ensuring that
+The Matplotlib API reference documentation is split between the docstrings and
+the rst source.  This documentation needs to be complete and accurate as our
+users rely on it as the final authority of what a given method will do (short of
+reading the source).
+
+The Reference Documentation Leader (RDL) is responsible for ensuring that
 the docstrings are:
 
 - correctly formatted and render as intended
 - technically correct
 - complete
 
+In addition to the docstrings the RDL is responsible for the sphinx build
+machinery and our sphinx extensions.
+
+### Narrative Documentation Leader
+
+In addition to the refernce documentation, Matplotlib has narrative documentation.
+This documentation can take the form of short "cookbook" examples that show an
+end-to-end
+
+
+This includes our examples and tutorials that live inside the
+main source repository and longer tutorials that live in other repositories
+in the Matplotlib organization.
+
+The Narrative Documentation Leader is responsible for shepherding all of this
+content including the scope, level, tone, and voice.
+
+### Secretary
+
+- Responsible for ensure that there is an agenda for the weekly meeting at it is
+  followed.
+- Responsible for maintaining the weekly notes.
+- Responsible for ensuring that decisions taken by vote in the SC are properly
+  recorded.
 
 ### Community Manager
 
-The true strength of Matplotlib and why it has had such longevity as a
-project is the community of people around the code.  That community
-needs to be maintained.  The Community Manager (CM) is the is a
-catch-all for several very diverse tasks and this role may be split
-in the future and may want to enlist further assistants.
+The true strength of Matplotlib and why it has had such longevity as a project
+is the community of people around the code.  That community needs to be
+maintained.  The Community Manager (CM) is the is a catch-all for several very
+diverse tasks and this role may be split in the future and may want to enlist
+further assistants.
 
 **Communications**
 
@@ -397,15 +412,6 @@ other expert users.
 
 From time to time Matplotlib as an organization has in-person
 meetings.
-
-
-### Secretary
-
-- Responsible for ensure that there is an agenda for the weekly meeting at it is
-  followed.
-- Responsible for maintaining the weekly notes.
-- Responsible for ensuring that decisions taken by vote in the SC are properly
-  recorded.
 
 
 Project Specific Leads
