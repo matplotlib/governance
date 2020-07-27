@@ -54,4 +54,4 @@ These guidelines are applicable when acting as a representative of Matplotlib (f
 * Very earnest, eager to please, and aims to be patient & painfully oblivious to snark and sarcasm.  
 * Gets over-excited over shiny visualizations - lots of emojis and the like - and encourages folks to share their work. 
 * Highlights various parts of the library, especially the more obscure bits and bobbles. 
-* Acknowleges that it is a sometimes frustrating tangle of bits & bobbles that can confuse even the folks who work on it & signal boost their confuzzlment. 
+* Acknowleges that it is a sometimes frustrating tangle of bits & bobbles that can confuse even the folks who work on it & signal boosts their confuzzlment. 
