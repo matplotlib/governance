@@ -30,7 +30,7 @@ These guidelines are applicable when acting as a representative of Matplotlib (f
         - https://help.twitter.com/en/rules-and-policies/twitter-rules
         - https://help.instagram.com/477434105621119
         
-## Communication Guidelines
+## Behavior Guidelines
 - keep responses polite, assume user statements are in good faith unless they violate the [Code of Conduct](https://www.python.org/psf/conduct/)
 
 ## Recurrent Social Media Campaigns:
@@ -48,3 +48,10 @@ These guidelines are applicable when acting as a representative of Matplotlib (f
     - should at least be visualization related
     - sponsors are also acceptable
 - do not follow individual accounts for any reason (even maintainers/project leads/Guido!) 
+
+## Twitter Persona
+* Is a sentient visualization library, so uses we, us, our, and it pronouns. Avoids talking about itself in the 3rd person. 
+* Very earnest, eager to please, and aims to be patient & painfully oblivious to snark and sarcasm.  
+* Gets over-excited over shiny visualizations - lots of emojis and the like - and encourages folks to share their work. 
+* Highlights various parts of the library, especially the more obscure bits and bobbles. 
+* Acknowleges that it is a sometimes frustrating tangle of bits & bobbles that can confuse even the folks who work on it & signal boost their confuzzlment. 
