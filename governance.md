@@ -13,7 +13,7 @@ The Matplotlib Project (The Project) is an open source software project
 affiliated with the [NumFOCUS](https://numfocus.org) Foundation. The goal of The
 Project is to develop open source software and deploy open and public websites
 and services for data visualization. The Software developed by The Project is
-released under the a BSD (or similar permissive) open source license, developed
+released under a BSD (or similar permissive) open source license, developed
 openly and hosted in public GitHub repositories under the [Matplotlib GitHub
 organization](https://github.com/matplotlib). Examples of Project Software
 include the Matplotlib library for data visualization and its associated
@@ -102,7 +102,8 @@ decision on a specific matter.
 
 The PL is chair of the Steering Council (see below) and may delegate their
 authority on a particular decision or set of decisions to any other Council
-member at their discretion.
+member at their discretion.  The PL is responsible for ensuring that all SC
+activities that require a vote are properly documented.
 
 The PL can appoint their successor, but it is expected that the Steering Council
 would be consulted on this decision. If the PL is unable to appoint a successor,
@@ -274,7 +275,7 @@ address.  Detailed policy on how to handle CoC will be documented elsewhere.
 Deputy Project Leaders
 ----------------------
 
-Deputy Project Leaders (DPL) have pre-deletegated authority to make decisions
+Deputy Project Leaders (DPL) have pre-delegated authority to make decisions
 within their area of responsibility.  As with the PL, the DPL should strive to
 reach consensus before invoking their authority.  Decisions by the DPL can be
 appealed to the PL, but the presumption is that the PL will defer to the DPL
@@ -296,129 +297,11 @@ Any currently active Contributor is eligible to be considered for a DPL and an
 individual may hold more than one DPL simultaneously.
 
 
-### Release Manager(s)
-
-The Release Manager (RM) is appointed for a minor version (A.B.x) release series
-of Matplotlib rather than for a fixed term.  They are responsible for the full
-release life cycle of all minor releases in the series including:
-
-- ensuring the whats new, API changes, and release notes are up to date
-- the timing of the releases
-- what changes should or should not be backported from the master
-  branch
-- rebuilding and publishing the website
-- publishing sdist and wheels to pypi
-- notifying down-stream packagers of the release
-- announcing the release (in coordination with the Community Manager)
-
-An individual may be the RM as more than one release series at the
-same time.
-
-
-### API consistency Leader
-
-Matplotlib is constantly making small changes to our API: enhancements
-that add new features, bug fixes that unavoidably change behavior, and
-deprecation of inconsistent or undesired functionality.  The API
-Consistency Leader (ACL) is responsible for making sure that these
-incremental changes to the library are done in a coherent and
-consistent manner.
-
-This include checking that:
-
-- new functionality is not duplicating existing functionality
-- deprecations are justified and properly documented
-- new functionality does not "paint us into a corner" for future work
-- new functionality is implemented with an API that is consistent with
-  the existing functions
-
-
-### Reference Documentation Leader
-
-The Matplotlib API reference documentation is split between the docstrings and
-the rst source.  This documentation needs to be complete and accurate as our
-users rely on it as the final authority of what a given method will do (short of
-reading the source).
-
-The Reference Documentation Leader (RDL) is responsible for ensuring that
-the docstrings are:
-
-- correctly formatted and render as intended
-- technically correct
-- complete
-
-In addition to the docstrings the RDL is responsible for the sphinx build
-machinery and our sphinx extensions.
-
-### Narrative Documentation Leader
-
-In addition to the refernce documentation, Matplotlib has narrative documentation.
-This documentation can take the form of short "cookbook" examples that show an
-end-to-end
-
-
-This includes our examples and tutorials that live inside the
-main source repository and longer tutorials that live in other repositories
-in the Matplotlib organization.
-
-The Narrative Documentation Leader is responsible for shepherding all of this
-content including the scope, level, tone, and voice.
-
-### Secretary
-
-- Responsible for ensure that there is an agenda for the weekly meeting at it is
-  followed.
-- Responsible for maintaining the weekly notes.
-- Responsible for ensuring that decisions taken by vote in the SC are properly
-  recorded.
-
-### Community Manager
-
-The true strength of Matplotlib and why it has had such longevity as a project
-is the community of people around the code.  That community needs to be
-maintained.  The Community Manager (CM) is the is a catch-all for several very
-diverse tasks and this role may be split in the future and may want to enlist
-further assistants.
-
-**Communications**
-
-We need to maintain communication channels with the wider world.  To this end
-the CM is responsible for maintaining:
-
-- the [Ann] mailing list
-- The Matplotlib blog
-- Maintaining a "matplotlib update" slide deck
-- Recruiting people to give talks on Matplotlib at conferences / meetups
-- Matplotlib's social media presence
-
-This communication is primarily broadcast out and intended to engage with
-end-users.
-
-**Developer Relations**
-
-In addition to communication to end-users we need to maintain
-communication channels to developers of down-stream libraries and
-other expert users.
-
-- interaction with 3rd party extensions / publicity
-- recruiting new contributors
-- Recruiting people to run sprints
-- GSOC/mentoring programs
-- Managing the discourse
-- [user]/[dev] mailing list moderation
-
-
-**Event and Meeting planning**
-
-From time to time Matplotlib as an organization has in-person
-meetings.
-
-
 Project Specific Leads
 ----------------------
 
 Matplotlib has a number of domain specific packages under it's umbrella and
-hosted on the matplotlib github organizations.  These projects will each have
+hosted on the Matplotlib github organizations.  These projects will each have
 their own Project Leader who can run the projects as they see fit consistent with
 the Matplotlib Code of Conduct.
 
