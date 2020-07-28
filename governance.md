@@ -150,7 +150,7 @@ situations. In particular, the Council may:
 - Granting or revoking commit rights.
 
 The steering council will be between 5 and 7 people including the PL.  Being on
-the steering council is a responsibilty, not a recongnition of being a long-time
+the steering council is a responsibility, not a recognition of being a long-time
 contributor.
 
 
