@@ -25,7 +25,7 @@ release life cycle of all minor releases in the series including:
 - notifying down-stream packagers of the release
 - announcing the release (in coordination with the Community Manager)
 
-An individual may be the RM as more than one release series at the
+An individual may be the RM for more than one release series at the
 same time.
 
 
@@ -84,11 +84,11 @@ content including the scope, organization, level, tone, and voice.
 
 ## Community Manager
 
-The true strength of Matplotlib and why it has had such longevity as a project
-is the community of people around the code.  That community needs to be
-maintained.  The Community Manager (CM) is the is a catch-all for several very
-diverse tasks and this role may be split in the future and may want to enlist
-further assistants.
+The true strength of Matplotlib and why it has had such longevity as a
+project is the community of people around the code.  That community
+needs to be maintained.  The Community Manager (CM) is a catch-all
+position for several very diverse tasks and this role may be split in
+the future and may want to enlist further assistants.
 
 **Communications**
 
