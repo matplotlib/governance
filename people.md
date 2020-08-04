@@ -2,7 +2,7 @@
 
 ## Project Lead
 
-Thomas Caswell is the currenwt Project Lead
+Thomas Caswell is the current Project Lead
 
 ### Deputy Project Leads
 
