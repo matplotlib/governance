@@ -1,8 +1,19 @@
 # Steering Council and Institutional Partners
 
-## Benevolent Dictator for Life
+## Project Lead
 
-Thomas Caswell is the Benevolent Dictator for Life (BDFL).
+Thomas Caswell is the currenwt Project Lead
+
+### Deputy Project Leads
+
+These are the current deputy project leader positions:
+
+- **Release Mangagers** :  (3.3, 3.4) : Elliott Sales de Andrade
+- **API consistency Leader** : Tim Hoffmann
+- **Reference Documentation Leader** :
+- **Narrative Documentation Leader** :
+- **Secretary** : Jody Klymak
+- **Community Manager** : Hannah Aizenman
 
 ## Steering Council
 
@@ -14,7 +25,7 @@ Thomas Caswell is the Benevolent Dictator for Life (BDFL).
 - TBD
 - TBD
 
-NOTE: The Council will be initially formed through BDFL nomination from the set
+NOTE: The Council will be initially formed through PL nomination from the set
 of existing Developers who meet the criteria laid out in the governance
 document.
 
@@ -25,6 +36,8 @@ document.
 - Michael Droettboom
 - Phil Elson
 - Eric Firing
+
+
 
 ## New Steering Council Members
 

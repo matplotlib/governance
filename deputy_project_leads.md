@@ -1,14 +1,5 @@
 # Deputy Project Leaders
 
-These are the current deputy project leader positions:
-
-- **Release Mangagers** :  3.3 : Elliott Sales de Andrade
-- **API consistency Leader** :
-- **Reference Documentation Leader** :
-- **Narrative Documentation Leader** :
-- **Secretary** :
-- **Community Manager** :
-
 
 ## Release Manager(s)
 
