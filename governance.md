@@ -124,6 +124,8 @@ ensure, through working with the PL and taking input from the Community, the
 long-term well-being of the project, technically, financially, and as a
 community.
 
+No Council Members may report to the same person through employment or contracting.
+
 During the everyday project activities, council members participate in all
 discussions, code review and other project activities as peers with all other
 Contributors and the Community. In these everyday activities, Council Members do
