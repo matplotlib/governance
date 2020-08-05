@@ -202,9 +202,10 @@ the future, like any other Project Contributor. Retired Council members will be
 listed on the project website, acknowledging the period during which they were
 active in the Council.
 
-The Council reserves the right to eject current Members, other than the PL, if
-they are deemed to be actively harmful to the project’s well-being, and attempts
-at communication and conflict resolution have failed, from The Project.
+The Council reserves the right to eject anyone, including the Council
+Members, from the project's online spaces if they are deemed to be
+actively harmful to the project’s well-being, and attempts at
+communication and conflict resolution have failed by a super majority vote.
 
 ### Conflict of interest
 
@@ -284,8 +285,7 @@ the PL.
 DPLs are nominated by Steering Council members and appointed to a 1yr term
 (except for Release Manager) from their appointment date by a majority vote of
 the Steering council. At each 1yr term a DPL has the option to continue for
-another year or step down.  The SC can remove a DPL using the same process as
-ejecting a Steering Council Member.
+another year or step down.  The SC can remove a DPL via a super-majority vote..
 
 At the discretion of the SC and PL a DPL position may not be filled in which
 case the responsibility devolves back to the PL.  The SC can create a new DPL
