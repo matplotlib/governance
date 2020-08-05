@@ -79,36 +79,6 @@ The true strength of Matplotlib and why it has had such longevity as a
 project is the community of people around the code.  That community
 needs to be maintained.  The Community Manager (CM) is a catch-all
 position for several very diverse tasks and this role may be split in
-the future and may want to enlist further assistants.
-
-**Communications**
-
-We need to maintain communication channels with the wider world.  To
-this end the CM is responsible for maintaining.  This communication is
-primarily broadcast out and intended to engage with the wider
-community.  The
-
-- the [Ann] mailing list
-- The Matplotlib blog
-- Maintaining a "Matplotlib update" slide deck
-- Recruiting people to give talks on Matplotlib at conferences / meetups
-- Matplotlib's social media presence
-
-**Developer Relations**
-
-In addition to communication to end-users we need to maintain
-communication channels to developers of down-stream libraries and
-other expert users.
-
-- interaction with 3rd party extensions / publicity
-- recruiting new contributors
-- Recruiting people to run sprints
-- GSOC/mentoring programs
-- Managing the discourse
-- [user]/[dev] mailing list moderation
-
-
-**Event and Meeting planning**
-
-From time to time Matplotlib as an organization has in-person
-meetings.
+the future and may want to enlist further assistants.  The CM is responsible
+for Matplotlib's evangelism, outreach, and user support as well as mainitaining
+the venues for conversation with the community.
