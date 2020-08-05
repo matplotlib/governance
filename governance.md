@@ -113,8 +113,6 @@ closely on the PL selection process, the Main NumFOCUS Board will make the final
 decision.  The NumFOCUS board may in extraordinary circumstances remove the PL
 from the project.
 
-To ensure the benevolence of the PL, The Project encourages others to fork the
-project if they disagree with the overall direction the PL is taking.
 
 Steering Council
 ----------------
