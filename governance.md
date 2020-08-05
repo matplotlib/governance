@@ -110,7 +110,7 @@ would be consulted on this decision. If the PL is unable to appoint a successor,
 the Steering Council will make a suggestion or suggestions to the Main NumFOCUS
 Board. While the Steering Council and Main NumFOCUS Board will work together
 closely on the PL selection process, the Main NumFOCUS Board will make the final
-decision.  The NumFOCUS board may in extenuating circumstances remove the PL
+decision.  The NumFOCUS board may in extraordinary circumstances remove the PL
 from the project.
 
 To ensure the benevolence of the PL, The Project encourages others to fork the
@@ -147,7 +147,7 @@ situations. In particular, the Council may:
   Services for the benefit of the Project and Community.
 - Make decisions when regular community discussion doesn’t produce consensus on
   an issue in a reasonable time frame.
-- Granting or revoking commit rights.
+- Grant or revok commit rights.
 
 The steering council will be between 5 and 7 people including the PL.  Being on
 the steering council is a responsibility, not a recognition of being a long-time
@@ -175,10 +175,11 @@ a diverse array of backgrounds, viewpoints and talents in our team, which is why
 we explicitly do not define code as the sole metric on which council membership
 will be evaluated.
 
-When invited to join the Steering Council Contributors are commiting to serve
-for 2 years.  At the end of the two years they may elect to, with consent of the
-rest of the council, re-join the council.  If they chose to not re-join the
-council the process above is used to recruit new members.
+When invited to join the Steering Council Contributors are commiting
+to serve for 2 years.  At the end of the two years, with the consent
+of the rest of the council, may elect to rejoin the council.  If they
+chose to not re-join the council the process above is used to recruit
+new members.
 
 The Steering Council members, other than the PL, will serve in 2 equal classes
 whose terms are offset by 1 year.  This will help preserve the continuity on the
@@ -187,7 +188,7 @@ Steering Council over time.
 A Steering Council member can step down at anytime.  If a Council Member becomes
 inactive for a period of 2 months, they will be approached by the PL to see if
 they plan on returning to active participation.  If not they will be asked to
-step down, if the Council Member indicates they intend to be active again but
+step down.  If the Council Member indicates they intend to be active again but
 have not done so after 1 month the Council may vote to remove them.
 
 If a Council Member leaves the council early they may be replaced, using the
@@ -198,7 +199,7 @@ Each class can fluctuate between 2 and 3 members so long as the total council
 size (including the PL) is between 5 and 7.  If a class gets too small, an
 additional member must be recruited.
 
-All former Council members can be considered for membership again at any time in
+All former Council members can be considered for membership again at anytime in
 the future, like any other Project Contributor. Retired Council members will be
 listed on the project website, acknowledging the period during which they were
 active in the Council.
@@ -211,13 +212,13 @@ at communication and conflict resolution have failed, from The Project.
 
 It is expected that the PL, DPLs, and Council Members will be employed at a wide
 range of companies, universities and non-profit organizations. Because of this,
-it is possible that Members will have conflict of interests. Such conflict of
-interests include, but are not limited to:
+it is possible that Members will have conflicts of interest. Such conflicts of
+interest include, but are not limited to:
 
--   Financial interests, such as investments, employment or contracting work,
-    outside of The Project that may influence their work on The Project.
--   Access to proprietary information of their employer that could potentially
-    leak into their work with the Project.
+-  Financial interests, such as investments, employment or contracting work,
+   outside of The Project that may influence their work on The Project.
+-  Access to proprietary information of their employer that could potentially
+   leak into their work with the Project.
 
 All members of the Council, PL included, shall disclose to the rest of the
 Council any conflict of interest they may have. Members with a conflict of
@@ -266,7 +267,7 @@ interactions with NumFOCUS which will include external members.
 ### Code of Conduct Subcommittee
 
 This committee should be between 3 and 7 people, at least one of whom is on the
-steering council and at least one who is not.  This committee in responsible for
+Steering Council and at least one who is not.  This committee in responsible for
 fielding and addressing CoC reports that happen within our digital and physical
 spaces.  They will maintain their own private mailing list and reporting
 address.  Detailed policy on how to handle CoC will be documented elsewhere.
@@ -307,7 +308,7 @@ the Matplotlib Code of Conduct.
 
 If a project would like to be hosted on the Matplotlib organization on
 GitHub, they can petition the SC and be accepted by a simple majority
-vote.  A project can leave the organization at any time and can be
+vote.  A project can leave the organization at anytime and can be
 removed from the organization by an 2/3 majority vote of the SC.
 
 Institutional Partners and Funding
