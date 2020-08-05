@@ -9,7 +9,7 @@ Thomas Caswell is the Benevolent Dictator for Life (BDFL).
 - Thomas Caswell
 - Eric Firing
 - Ryan May
-- TBD
+- Tim Hoffmann
 - TBD
 - TBD
 - TBD
