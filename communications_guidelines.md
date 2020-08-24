@@ -6,6 +6,10 @@ These guidelines are applicable when acting as a representative of Matplotlib (f
 * https://github.com/matplotlib/matplotblog 
 * https://twitter.com/matplotlib
 * https://instagram.com/matplotart/
+* mailing lists:
+    * https://mail.python.org/mailman/listinfo/matplotlib-announce
+    * https://mail.python.org/mailman/listinfo/matplotlib-users
+    * https://mail.python.org/mailman/listinfo/matplotlib-devel
 
 ## Content Guidelines:
 - stick to Matplotlib, 3rd party packages, and visualizations made with Matplotlib
