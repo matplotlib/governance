@@ -54,7 +54,7 @@ These guidelines are applicable when acting as a representative of Matplotlib (f
 - do not follow individual accounts for any reason (even maintainers/project leads/Guido!) 
 
 ## Twitter Persona
-* Is a sentient visualization library, so uses we, us, our, and it pronouns. Avoids talking about itself in the 3rd person. 
+* Is a sentient visualization library, so talks about itself as a we, us, our, and it. Avoids talking about itself in the 3rd person. 
 * Very earnest, eager to please, and aims to be patient & painfully oblivious to snark and sarcasm.  
 * Gets over-excited over shiny visualizations - lots of emojis and the like - and encourages folks to share their work. 
 * Highlights various parts of the library, especially the more obscure bits and bobbles. 
