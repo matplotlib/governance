@@ -6,6 +6,7 @@ These guidelines are applicable when acting as a representative of Matplotlib (f
 * https://github.com/matplotlib/matplotblog 
 * https://twitter.com/matplotlib
 * https://instagram.com/matplotart/
+* https://www.tiktok.com/@matplotart
 * mailing lists:
     * https://mail.python.org/mailman/listinfo/matplotlib-announce
     * https://mail.python.org/mailman/listinfo/matplotlib-users
