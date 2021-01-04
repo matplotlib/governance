@@ -10,7 +10,7 @@ These are the current deputy project leader positions:
 
 - **Release Mangagers** :  (3.3, 3.4) : Elliott Sales de Andrade
 - **API consistency Leader** : Tim Hoffmann
-- **Reference Documentation Leader** :
+- **Reference Documentation Leader** : Tim Hoffmann
 - **Narrative Documentation Leader** :
 - **Secretary** : Jody Klymak
 - **Community Manager** : Hannah Aizenman
