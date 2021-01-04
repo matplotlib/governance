@@ -20,7 +20,7 @@ An individual may be the RM for more than one release series at the
 same time.
 
 
-## API consistency Leader
+## API Consistency Leader
 
 Matplotlib is constantly making small changes to its API: enhancements
 that add new features, bug fixes that unavoidably change behavior, and
