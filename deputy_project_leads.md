@@ -38,6 +38,20 @@ This include checking that:
   the existing functions
 
 
+## Principal Engineer
+
+Matplotlib relies on a wide and deep code base to implement its public
+API; the low-level details need to be correct to faithfully implement
+that API.  In contrast to the API Consistency Leader, who is
+responsible for what the library does, the Principal Engineer is
+responsible for how. They are the point of contact for:
+
+- rendering
+- file formats
+- text/font handling
+- integration with GUI toolkits
+- internal data structures and API
+
 ## Reference Documentation Leader
 
 The Matplotlib API reference documentation is split between the docstrings and
