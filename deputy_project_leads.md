@@ -20,7 +20,7 @@ An individual may be the RM for more than one release series at the
 same time.
 
 
-## API consistency Leader
+## API Consistency Leader
 
 Matplotlib is constantly making small changes to its API: enhancements
 that add new features, bug fixes that unavoidably change behavior, and
@@ -37,6 +37,20 @@ This include checking that:
 - new functionality is implemented with an API that is consistent with
   the existing functions
 
+
+## Principal Engineer
+
+Matplotlib relies on a wide and deep code base to implement its public
+API; the low-level details need to be correct to faithfully implement
+that API.  In contrast to the API Consistency Leader, who is
+responsible for what the library does, the Principal Engineer is
+responsible for how. They are the point of contact for:
+
+- rendering
+- file formats
+- text/font handling
+- integration with GUI toolkits
+- internal data structures and API
 
 ## Reference Documentation Leader
 

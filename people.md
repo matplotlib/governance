@@ -9,7 +9,8 @@ Thomas Caswell is the current Project Lead
 These are the current deputy project leader positions:
 
 - **Release Mangagers** :  (3.3, 3.4) : Elliott Sales de Andrade
-- **API consistency Leader** : Tim Hoffmann
+- **API Consistency Leader** : Tim Hoffmann
+- **Principal Engineer**: Antony Lee
 - **Reference Documentation Leader** :
 - **Narrative Documentation Leader** :
 - **Secretary** : Jody Klymak
