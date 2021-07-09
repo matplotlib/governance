@@ -34,7 +34,16 @@ These guidelines are applicable when acting as a representative of Matplotlib (f
     - site guidelines:
         - https://help.twitter.com/en/rules-and-policies/twitter-rules
         - https://help.instagram.com/477434105621119
-        
+
+## Accessibility
+- add alt text to images and videos when the platform allows
+    - https://webaim.org/techniques/alttext/
+- warn on bright, strobing, images & turn off autoplay if possible
+- for images made by the social media team:
+  - make graphic percievable to person who cannot perceive color well, due to color-blindness or low vision
+  - do not make bright, strobing images 
+  - more guidelines at https://webaim.org/techniques/images/
+       
 ## Behavior Guidelines
 - keep responses polite, assume user statements are in good faith unless they violate the [Code of Conduct](https://www.python.org/psf/conduct/)
 
