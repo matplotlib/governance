@@ -40,7 +40,7 @@ These guidelines are applicable when acting as a representative of Matplotlib (f
     - https://webaim.org/techniques/alttext/
 - warn on bright, strobing, images & turn off autoplay if possible
 - for images made by the social media team:
-  - make graphic percievable to person who cannot perceive color well, due to color-blindness or low vision
+  - make graphic perceivable to people who cannot perceive color well, due to color-blindness or low vision
   - do not make bright, strobing images 
   - more guidelines at https://webaim.org/techniques/images/
        
