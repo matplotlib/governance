@@ -38,6 +38,7 @@ These guidelines are applicable when acting as a representative of Matplotlib (f
 ## Accessibility
 - add alt text to images and videos when the platform allows
     - https://webaim.org/techniques/alttext/
+    - https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81
 - warn on bright, strobing, images & turn off autoplay if possible
 - for images made by the social media team:
   - make graphic perceivable to people who cannot perceive color well, due to color-blindness or low vision
