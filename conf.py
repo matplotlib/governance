@@ -18,7 +18,7 @@ from subprocess import Popen, PIPE
 
 # -- Project information -----------------------------------------------------
 
-project = "N2SN Docs"
+project = "Matplotlib Governance Documents"
 copyright = "2022, Matplotlib Development Team"
 author = "Matplotlib Steering Council"
 pipe = Popen("git describe --tags --always", stdout=PIPE, shell=True)
