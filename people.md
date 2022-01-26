@@ -1,4 +1,4 @@
-# Steering Council and Institutional Partners
+# People
 
 ## Project Lead
 
