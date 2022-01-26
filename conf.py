@@ -71,7 +71,10 @@ html_css_files = []
 html_logo = "_static/logo2.svg"
 
 
-# html_sidebars = {"**": ["globaltoc.html", "localtoc.html", "searchbox.html"]}
+html_sidebars = {
+    "index": ["search-field.html"],
+    "**": ["search-field.html", "globaltoc.html"],
+}
 
 is_release_build = tags.has("release")  # noqa
 
@@ -80,6 +83,7 @@ html_theme_options = {
     "native_site": True,
     "logo_link": "index",
     "collapse_navigation": not is_release_build,
+    "show_prev_next": False,
     # Toc options
     "navigation_depth": 2,
 }
