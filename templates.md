@@ -47,3 +47,12 @@ Welcome <name> to the Matplotlib organization
 We are happy to announce that <name/@on discourse> (<link to GH profile>) has accepted an invitation to
 join the Matplotlib organization as a committer to core repository!
 ```
+
+
+## New Steering Council Members
+
+When a new member joins the steering council, the following things are done:
+- Announce the new member on the Matplotlib-Announce mailing list
+- Make the new member an org owner for Matplotlib Github organization
+- Add the new member to the list in the governance repo, and if appropriate, add their affiliation to the institutional partner list (https://github.com/matplotlib/governance/blob/master/people.md)
+- Add the new member to the list of steering council members on the website
