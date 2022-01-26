@@ -9,5 +9,8 @@ Matplotlib Governance Documentation
    sponsorship.md
    deputy_project_leads.md
    people.md
+   funding.md
+
+.. toctree::
    templates.md
    communications_guidelines.md
