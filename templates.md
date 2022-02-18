@@ -31,7 +31,7 @@ If you accept, welcome (formally) to the team!
 
 YOUR NAME (on behalf of the SC)
 
-Agenda: https://hackmd.io/@matplotlib/SJcAKC2BO
+Agendas: https://hackmd.io/@matplotlib
 zoom: https://zoom.us/j/384435716?pwd=WFpxVWxoYXArTDFzN1lWaHNoOE8xZz09
 ```
 
