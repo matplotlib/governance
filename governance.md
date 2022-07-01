@@ -6,8 +6,8 @@ section below, is contained in The Project Governance Repository at:
 
 [https://github.com/matplotlib/governance](https://github.com/matplotlib/governance)
 
-The Project
-===========
+## The Project
+
 
 The Matplotlib Project (The Project) is an open source software project
 affiliated with the [NumFOCUS](https://numfocus.org) Foundation. The goal of The
@@ -57,8 +57,8 @@ manage project donations and acts as a parent legal entity. NumFOCUS
 is the only legal entity that has a formal relationship with the
 project (see Institutional Partners section below).
 
-Governance
-==========
+## Governance
+
 
 This section describes the governance and leadership model of The Project.
 
@@ -86,8 +86,8 @@ several Deputy Leads, and a Steering Council. We view this governance
 model as the formalization of what we are already doing, rather than a
 change in direction.
 
-Project Lead
-------------
+## Project Lead
+
 
 The Project will have a Project Leader (PL), who is currently Thomas A Caswell.
 The PL has the authority to make all final decisions for The Project.  In
@@ -114,8 +114,8 @@ decision.  The NumFOCUS board may in extraordinary circumstances remove the PL
 from the project.
 
 
-Steering Council
-----------------
+## Steering Council
+
 
 The Project will have a Steering Council that consists of Project Contributors
 who have produced contributions that are substantial in quality and quantity,
@@ -274,8 +274,8 @@ spaces.  They will maintain their own private mailing list and reporting
 address.  Detailed policy on how to handle CoC will be documented elsewhere.
 
 
-Deputy Project Leaders
-----------------------
+## Deputy Project Leaders
+
 
 Deputy Project Leaders (DPL) have pre-delegated authority to make decisions
 within their area of responsibility.  As with the PL, the DPL should strive to
@@ -298,8 +298,8 @@ Any currently active Contributor is eligible to be considered for a DPL and an
 individual may hold more than one DPL simultaneously.
 
 
-Project Specific Leads
-----------------------
+## Project Specific Leads
+
 
 Matplotlib has a number of domain specific packages under it's umbrella and
 hosted on the Matplotlib github organizations.  These projects will each have
@@ -311,8 +311,8 @@ GitHub, they can petition the SC and be accepted by a simple majority
 vote.  A project can leave the organization at anytime and can be
 removed from the organization by an 2/3 majority vote of the SC.
 
-Institutional Partners and Funding
-==================================
+## Institutional Partners and Funding
+
 
 The PL and Steering Council are the primary leadership for the project. No
 outside institution, individual or legal entity has the ability to own,
@@ -361,16 +361,22 @@ this situation, that part of the Partner’s work will not be under the
 Matplotlib umbrella and cannot use the Project trademarks in a way that
 suggests a formal relationship.
 
-To acknowledge institutional contributions, Institutional Partners receive the
-following benefits:
+In line with the sponsorship levels, an institution needs to provide at least:
 
--   Acknowledged on the Matplotlib websites, in talks and T-shirts.
--   Ability to acknowledge their own funding sources on the Matplotlib websites,
+-   6 person-months/yr of paid work time for one or more Matplotlib
+    maintainers or regular contributors to any Matplotlib team or activity
+
+to be an Institutional Partner.  In addition to the Sponsor acknoledgements as
+described in the [sponsorship
+document](https://github.com/matplotlib/governance/sponsorship.md),
+institutional partners can also:
+
+-   Acknowledge their own funding sources on the Matplotlib websites,
     in talks and T-shirts.
 
 
-Changing the Governance Documents
-=================================
+## Changing the Governance Documents
+
 
 Changes to the governance documents are submitted via a GitHub pull request to
 The Project's governance documents GitHub repository at

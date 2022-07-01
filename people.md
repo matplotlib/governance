@@ -1,26 +1,27 @@
-# Steering Council and Institutional Partners
+# People
 
 ## Project Lead
 
-Thomas Caswell is the current Project Lead
+Thomas Caswell [@tacaswell](https://github.com/tacaswell)
 
-### Deputy Project Leads
+## Deputy Project Leads
 
 These are the current deputy project leader positions:
 
-- **Release Mangagers** :  (3.3, 3.4) : Elliott Sales de Andrade
-- **API consistency Leader** : Tim Hoffmann
-- **Reference Documentation Leader** : Tim Hoffmann
+- **Release Mangagers** :  (3.3, 3.4, 3.5) : Elliott Sales de Andrade [@qulogic](https://github.com/qulogic)
+- **API Leader** : Tim Hoffmann [@timhoffm](https://github.com/timhoffm)
+- **Principal Engineer**: Antony Lee [@anntzer](https://github.com/anntzer)
+- **Reference Documentation Leader** : Tim Hoffmann [@timhoffm](https://github.com/timhoffm)
 - **Narrative Documentation Leader** :
-- **Secretary** : Jody Klymak
-- **Community Manager** : Hannah Aizenman
+- **Secretary** : Jody Klymak [@jklymak](https://github.com/jklymak)
+- **Community Manager** : Hannah Aizenman [@story645](https://github.com/story645)
 
 ## Steering Council
 
-- Thomas Caswell
-- Eric Firing
-- Ryan May
-- Tim Hoffmann
+- Thomas Caswell [@tacaswell](https://github.com/tacaswell)
+- Eric Firing [@efiring](https://github.com/efiring)
+- Ryan May [@dopplershift](https://github.com/dopplershift)
+- Tim Hoffmann [@timhoffm](https://github.com/timhoffm)
 - TBD
 - TBD
 - TBD
@@ -32,17 +33,11 @@ document.
 
 ### NumFOCUS Subcommittee
 
-- Thomas Caswell
-- Michael Droettboom
-- Phil Elson
-- Eric Firing
+- Thomas Caswell [@tacaswell](https://github.com/tacaswell)
+- Michael Droettboom [@mdboom](https://github.com/mdboom)
+- Phil Elson [@pelson](https://github.com/pelson)
+- Eric Firing [@efiring](https://github.com/efiring)
 
+## Project Specific Leads
 
-
-## New Steering Council Members
-
-When a new member joins the steering council, the following things are done:
-- Announce the new member on the Matplotlib-Announce mailing list
-- Make the new member an org owner for Matplotlib Github organization
-- Add the new member to the list in the governance repo, and if appropriate, add their affiliation to the institutional partner list (https://github.com/matplotlib/governance/blob/master/people.md)
-- Add the new member to the list of steering council members on the website
+- **mpl-cairo**: Antony Lee  [@anntzer](https://github.com/anntzer)
