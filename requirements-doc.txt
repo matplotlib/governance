@@ -1,5 +1,4 @@
 # List required packages in this file, one per line.
-pydata-sphinx-theme<0.9.0
 mpl-sphinx-theme
 myst-parser
 sphinx<5  # pinned because current pydata-sphinx-theme is incompatible
