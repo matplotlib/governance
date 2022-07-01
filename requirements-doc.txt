@@ -1,4 +1,5 @@
 # List required packages in this file, one per line.
+pydata-sphinx-theme<0.9.0
 mpl-sphinx-theme
 myst-parser
 sphinx
