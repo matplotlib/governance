@@ -20,29 +20,29 @@ An individual may be the RM for more than one release series at the
 same time.
 
 
-## API Consistency Leader
+## API Leader
 
-Matplotlib is constantly making small changes to its API: enhancements
-that add new features, bug fixes that unavoidably change behavior, and
-deprecation of inconsistent or undesired functionality.  The API
-Consistency Leader (ACL) is responsible for making sure that these
-incremental changes to the library are done in a coherent and
-consistent manner.
+A good API is essential for usability and user satisfaction. We strive for an
+API that is intuitive, easy to use, consistent and stable. The API Leader (AL)
+is responsible for the overall evolution of the API. In particular they ensure
+that:
 
-This include checking that:
-
-- new functionality is not duplicating existing functionality
-- deprecations are justified and properly documented
-- new functionality does not "paint us into a corner" for future work
-- new functionality is implemented with an API that is consistent with
-  the existing functions
+- additions are justified, i.e. they do not duplicate existing functionality
+  and do not exceed the intended scope of the library
+- additions are consistent with the existing API
+- additions are designed to not cause any future liabilities, i.e. they do not
+  unintendedly limit future extensions or expose internals
+- changes are carefully balanced between their benefit for future users and
+  their impact on existing code
+- changes follow the deprecation policy so that they do not hit users
+  unprepeared
 
 
 ## Principal Engineer
 
 Matplotlib relies on a wide and deep code base to implement its public
 API; the low-level details need to be correct to faithfully implement
-that API.  In contrast to the API Consistency Leader, who is
+that API.  In contrast to the API Leader, who is
 responsible for what the library does, the Principal Engineer is
 responsible for how. They are the point of contact for:
 
