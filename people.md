@@ -11,7 +11,7 @@ These are the current deputy project leader positions:
 - **Release Mangagers** :  (3.3, 3.4, 3.5) : Elliott Sales de Andrade [@qulogic](https://github.com/qulogic)
 - **API Leader** : Tim Hoffmann [@timhoffm](https://github.com/timhoffm)
 - **Principal Engineer**: Antony Lee [@anntzer](https://github.com/anntzer)
-- **Reference Documentation Leader** :
+- **Reference Documentation Leader** : Tim Hoffmann [@timhoffm](https://github.com/timhoffm)
 - **Narrative Documentation Leader** :
 - **Secretary** : Jody Klymak [@jklymak](https://github.com/jklymak)
 - **Community Manager** : Hannah Aizenman [@story645](https://github.com/story645)
