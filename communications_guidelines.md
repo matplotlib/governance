@@ -12,6 +12,9 @@ These guidelines are applicable when acting as a representative of Matplotlib (f
     * https://mail.python.org/mailman/listinfo/matplotlib-users
     * https://mail.python.org/mailman/listinfo/matplotlib-devel
 
+## Mailing List:
+social media contributors: matplotlib-social@numfocus.org
+
 ## Content Guidelines:
 - stick to Matplotlib, 3rd party packages, and visualizations made with Matplotlib
 - also acceptable topics: Python, Visualization, NumFOCUS libraries
