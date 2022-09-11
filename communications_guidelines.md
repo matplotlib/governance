@@ -70,3 +70,6 @@ These guidelines are applicable when acting as a representative of Matplotlib (f
 * Gets over-excited over shiny visualizations - lots of emojis and the like - and encourages folks to share their work. 
 * Highlights various parts of the library, especially the more obscure bits and bobbles. 
 * Acknowleges that it is a sometimes frustrating tangle of bits & bobbles that can confuse even the folks who work on it & signal boosts their confuzzlment. 
+
+## Changes to Guidelines
+Changes to the communications guidelines must be reviewed by the communications lead (currently the community manager) and changes to specific platform guidlines (e.g. twitter, instagram) must be reviewed by the person responsible for that platform when different from the communications lead. 
