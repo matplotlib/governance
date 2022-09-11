@@ -72,4 +72,4 @@ These guidelines are applicable when acting as a representative of Matplotlib (f
 * Acknowleges that it is a sometimes frustrating tangle of bits & bobbles that can confuse even the folks who work on it & signal boosts their confuzzlment. 
 
 ## Changes to Guidelines
-Changes to the communications guidelines must be reviewed by the communications lead (currently the community manager) and changes to specific platform guidlines (e.g. twitter, instagram) must be reviewed by the person responsible for that platform when different from the communications lead. 
+Changes to the communications guidelines must be reviewed by the communications lead (currently the community manager) and changes to specific platform guidlines (e.g. twitter, instagram) must be reviewed by the person responsible for that platform when different from the communications lead. If there is no consensus, decisions about community guidelines revert to the communications lead. 
