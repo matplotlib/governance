@@ -12,6 +12,10 @@ These guidelines are applicable when acting as a representative of Matplotlib (f
     * https://mail.python.org/mailman/listinfo/matplotlib-users
     * https://mail.python.org/mailman/listinfo/matplotlib-devel
 
+## Social Media Coordination Communication Channels:
+team mailing list: matplotlib-social@numfocus.org
+public chat room: https://gitter.im/matplotlib/community 
+
 ## Content Guidelines:
 - stick to Matplotlib, 3rd party packages, and visualizations made with Matplotlib
 - also acceptable topics: Python, Visualization, NumFOCUS libraries
