@@ -72,16 +72,20 @@ html_logo = "_static/logo2.svg"
 
 
 html_sidebars = {
-    "index": ["search-field.html"],
-    "**": ["search-field.html", "globaltoc.html"],
+    "index": [],
+    "**": ["globaltoc.html"],
 }
 
 is_release_build = tags.has("release")  # noqa
 
 
 html_theme_options = {
-    "native_site": True,
-    "logo_link": "index",
+    "navbar_links": "server-stable",
+    "logo": {
+        "link": "index",
+        "image_light": "images/logo2.svg",
+        "image_dark": "images/logo_dark.svg",
+    },
     "collapse_navigation": not is_release_build,
     "show_prev_next": False,
     # Toc options
