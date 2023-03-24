@@ -35,6 +35,32 @@ Agendas: https://hackmd.io/@matplotlib
 zoom: https://zoom.us/j/384435716?pwd=WFpxVWxoYXArTDFzN1lWaHNoOE8xZz09
 ```
 
+## Offer triage right
+
+```
+Subject: Matplotlib triage rights
+
+<name>,
+
+We would like to invite you to join the Matplotlib organization on github with
+triage rights to the main Matplotlib repository! (you should have the GH emails
+in your inbox).
+
+Please see https://matplotlib.org/stable/devel/triage.html and remember to be kind during your reviews.
+
+In addition to the discussions on GitHub we have weekly open developer calls
+that you are invited to join on Thurdays (links below for agenda, zoom, and calendar).
+
+If you accept, welcome (formally) to the team!
+
+<YOUR NAME> (on behalf of the SC)
+
+Agendas: https://hackmd.io/@matplotlib
+zoom: https://zoom.us/j/384435716?pwd=WFpxVWxoYXArTDFzN1lWaHNoOE8xZz09
+calendar: https://scientific-python.org/calendars/
+```
+
+
 ## Announce new committer
 
 In "Announcements" section of discourse
