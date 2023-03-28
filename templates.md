@@ -28,7 +28,7 @@ that you are invited to join on Thurdays (links below for agenda, zoom, and cale
 
 If you accept, welcome (formally) to the team!
 
-<YOUR NAME> (on behalf of the SC)
+<YOUR NAME> (on behalf of the Matplotlib Steering Council)
 
 Agendas: https://hackmd.io/@matplotlib
 zoom: https://zoom.us/j/384435716?pwd=WFpxVWxoYXArTDFzN1lWaHNoOE8xZz09
@@ -42,8 +42,8 @@ Subject: Matplotlib triage rights
 
 <name>,
 
-We would like to invite you to join the Matplotlib organization on github with
-triage rights to the main Matplotlib repository! (you should have the GH emails
+We would like to invite you to join the Matplotlib organization on GitHub with
+triage rights to the main Matplotlib repository! (you should have the GitHub emails
 in your inbox).
 
 Please see https://matplotlib.org/stable/devel/triage.html and remember to be kind during your reviews.
@@ -53,7 +53,7 @@ that you are invited to join on Thurdays (links below for agenda, zoom, and cale
 
 If you accept, welcome (formally) to the team!
 
-<YOUR NAME> (on behalf of the SC)
+<YOUR NAME> (on behalf of the Matplotlib Steering Council)
 
 Agendas: https://hackmd.io/@matplotlib
 zoom: https://zoom.us/j/384435716?pwd=WFpxVWxoYXArTDFzN1lWaHNoOE8xZz09
