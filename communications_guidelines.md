@@ -1,20 +1,30 @@
 # Communication Guidelines
 These guidelines are applicable when acting as a representative of Matplotlib (for example at sprints or when giving official talks or tutorials) and in the following community venues managed by Matplotlib:
-* https://github.com/matplotlib/matplotlib
-* https://discourse.matplotlib.org/
-* https://gitter.im/matplotlib/ 
-* https://github.com/matplotlib/matplotblog 
-* https://twitter.com/matplotlib
-* https://instagram.com/matplotart/
-* https://www.tiktok.com/@matplotart
+* library and docs: https://github.com/matplotlib/matplotlib
+* forum: https://discourse.matplotlib.org/
+* chat: https://matrix.to/#/#matplotlib:matrix.org
+* blog: https://github.com/matplotlib/matplotblog 
+* active social media: 
+   * https://twitter.com/matplotlib
+   * https://instagram.com/matplotart/
+* official accounts:
+   * https://bsky.app/profile/matplotlib.bsky.social
+   * https://fosstodon.org/@matplotlib
+   * https://www.tiktok.com/@matplotart
+   * https://www.youtube.com/matplotlib
 * mailing lists:
     * https://mail.python.org/mailman/listinfo/matplotlib-announce
     * https://mail.python.org/mailman/listinfo/matplotlib-users
     * https://mail.python.org/mailman/listinfo/matplotlib-devel
 
+## Maintenance
+If you are interested in moderating the chat or forum or accessing the social media accounts:
+ * matplotlib maintainer: reach out to the [community manager](people.md#deputy-project-leads) to elevate privileges.
+ * everyone else: send an email explaining why to matplotlib-social-admin@numfocus.org 
+
 ## Social Media Coordination Communication Channels:
 team mailing list: matplotlib-social@numfocus.org
-public chat room: https://gitter.im/matplotlib/community 
+public chat room: https://matrix.to/#/#matplotlib_community:gitter.im
 
 ## Content Guidelines:
 - stick to Matplotlib, 3rd party packages, and visualizations made with Matplotlib
@@ -50,7 +60,7 @@ public chat room: https://gitter.im/matplotlib/community
   - more guidelines at https://webaim.org/techniques/images/
        
 ## Behavior Guidelines
-- keep responses polite, assume user statements are in good faith unless they violate the [Code of Conduct](https://www.python.org/psf/conduct/)
+- keep responses polite and assume user statements are in good faith unless they violate the [Code of Conduct](https://github.com/matplotlib/matplotlib/blob/main/CODE_OF_CONDUCT.md)
 
 ## Recurrent Social Media Campaigns:
 - Release Announcements
@@ -58,8 +68,9 @@ public chat room: https://gitter.im/matplotlib/community
     - Link to download/install instructions
     - Ask folks to try it out. 
 - signal  boost third party packages
-- GSOC work during GSOC recruiting and work times
-- John Hunter Excellence in Plotting, submission and winners
+- GSOC/GSOD recruiting and progress
+- retired:
+   - John Hunter Excellence in Plotting, submission and winners
 
 ## Social Media Following Guide:
 - only follow organizations/projects - mostly numfocus projects 
