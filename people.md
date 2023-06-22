@@ -8,7 +8,7 @@ Thomas Caswell [@tacaswell](https://github.com/tacaswell)
 
 These are the current deputy project leader positions:
 
-- **Release Mangagers** :  (3.3, 3.4, 3.5) : Elliott Sales de Andrade [@qulogic](https://github.com/qulogic)
+- **Release Managers** :  (3.3-3.8) : Elliott Sales de Andrade [@qulogic](https://github.com/qulogic)
 - **API Leader** : Tim Hoffmann [@timhoffm](https://github.com/timhoffm)
 - **Principal Engineer**: Antony Lee [@anntzer](https://github.com/anntzer)
 - **Reference Documentation Leader** : Tim Hoffmann [@timhoffm](https://github.com/timhoffm)
