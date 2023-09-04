@@ -19,12 +19,12 @@ These guidelines are applicable when acting as a representative of Matplotlib (f
 
 ## Maintenance
 If you are interested in moderating the chat or forum or accessing the social media accounts:
- * matplotlib maintainer: reach out to the [community manager](people.md#deputy-project-leads) to elevate privileges.
+ * matplotlib maintainer: reach out to the [community manager](people.md#user-content-deputy-project-leads) to elevate privileges.
  * everyone else: send an email explaining why to matplotlib-social-admin@numfocus.org 
 
 ## Social Media Coordination Communication Channels:
-team mailing list: matplotlib-social@numfocus.org
-public chat room: https://matrix.to/#/#matplotlib_community:gitter.im
+* team mailing list: matplotlib-social@numfocus.org
+* public chat room: https://matrix.to/#/#matplotlib_community:gitter.im
 
 ## Content Guidelines:
 - stick to Matplotlib, 3rd party packages, and visualizations made with Matplotlib
