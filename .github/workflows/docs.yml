@@ -1,15 +1,19 @@
+---
 name: Docs
 
 on: [push, pull_request]
-
-env:
-  IS_RELEASE: |
-    ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
 
 jobs:
   build:
     runs-on: ubuntu-20.04
     steps:
+      - name: Check if release
+        id: setup
+        run: |
+          echo "IS_RELEASE=${{
+            github.event_name == 'push' && github.ref == 'refs/heads/main'
+          }}" >> $GITHUB_OUTPUT
+
       - uses: actions/checkout@v2
 
       - name: Upgrade jinja
@@ -20,13 +24,13 @@ jobs:
 
       - name: Build
         run: |
-          if [ "x$IS_RELEASE" == "xtrue" ]; then
+          if [ "${{ steps.setup.outputs.IS_RELEASE }}" == "true" ]; then
             O="-t release"
           fi
           make html O="$O"
 
       - name: Publish
-        if: ${{ env.IS_RELEASE == 'true' }}
+        if: ${{ steps.setup.outputs.IS_RELEASE == 'true' }}
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
