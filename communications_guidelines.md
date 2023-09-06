@@ -3,7 +3,7 @@ These guidelines are applicable when acting as a representative of Matplotlib (f
 * library and docs: https://github.com/matplotlib/matplotlib
 * forum: https://discourse.matplotlib.org/
 * chat: https://matrix.to/#/#matplotlib:matrix.org
-* blog: https://github.com/matplotlib/matplotblog 
+* blog: https://blog.scientific-python.org/
 * active social media: 
    * https://twitter.com/matplotlib
    * https://instagram.com/matplotart/
@@ -19,7 +19,7 @@ These guidelines are applicable when acting as a representative of Matplotlib (f
 
 ## Maintenance
 If you are interested in moderating the chat or forum or accessing the social media accounts:
- * matplotlib maintainer: reach out to the [community manager](people.md) to elevate privileges.
+ * matplotlib maintainer: reach out to the [community manager](people.md#deputy-project-leads) to elevate privileges.
  * everyone else: send an email explaining why to matplotlib-social-admin@numfocus.org 
 
 ## Social Media Coordination Communication Channels:
