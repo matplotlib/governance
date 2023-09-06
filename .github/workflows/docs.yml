@@ -2,6 +2,9 @@ name: Docs
 
 on: [push, pull_request]
 
+env:
+  IS_RELEASE: |
+    ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
 
 jobs:
   build:
@@ -16,10 +19,14 @@ jobs:
         run: pip install -r requirements-doc.txt
 
       - name: Build
-        run: make html
-      - name: Publish
+        run: |
+          if [ "x$IS_RELEASE" == "xtrue" ]; then
+            O="-t release"
+          fi
+          make html O="$O"
 
-        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
+      - name: Publish
+        if: ${{ env.IS_RELEASE == 'true' }}
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}

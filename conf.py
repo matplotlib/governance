@@ -62,13 +62,12 @@ html_theme = "mpl_sphinx_theme"
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ["_static"]
+# html_static_path = ["_static"]
 
 # Fix for table wrapping
 # https://rackerlabs.github.io/docs-rackspace/tools/rtd-tables.html
 
 html_css_files = []
-html_logo = "_static/logo2.svg"
 
 
 html_sidebars = {
@@ -80,12 +79,7 @@ is_release_build = tags.has("release")  # noqa
 
 
 html_theme_options = {
-    "navbar_links": "server-stable",
-    "logo": {
-        "link": "index",
-        "image_light": "images/logo2.svg",
-        "image_dark": "images/logo_dark.svg",
-    },
+    "navbar_links": ("absolute", "server-stable"),
     "collapse_navigation": not is_release_build,
     "show_prev_next": False,
     # Toc options
