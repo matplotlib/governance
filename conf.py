@@ -88,4 +88,8 @@ html_theme_options = {
 
 include_analytics = is_release_build
 if include_analytics:
-    html_theme_options["google_analytics_id"] = "UA-55954603-1"
+    html_theme_options["analytics"] = {
+        "plausible_analytics_domain": "matplotlib.org",
+        "plausible_analytics_url":
+            "https://views.scientific-python.org/js/script.js"
+    }
