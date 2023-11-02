@@ -1,0 +1,641 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Deputy Project Leaders &#8212; Matplotlib Governance Documents 104f4c0 documentation</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=365ca57ee442770a23c6" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=365ca57ee442770a23c6" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=365ca57ee442770a23c6" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=365ca57ee442770a23c6" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=a746c00c" />
+    <link rel="stylesheet" type="text/css" href="_static/css/style.css?v=86e00652" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=365ca57ee442770a23c6" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=365ca57ee442770a23c6" />
+  <script src="_static/vendor/fontawesome/6.1.2/js/all.min.js?digest=365ca57ee442770a23c6"></script>
+
+    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js?v=abd3dd7a"></script>
+    <script src="_static/doctools.js?v=888ff710"></script>
+    <script src="_static/sphinx_highlight.js?v=4825356b"></script>
+    <script data-domain="matplotlib.org" defer="defer" src="https://views.scientific-python.org/js/script.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'deputy_project_leads';</script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="People" href="people.html" />
+    <link rel="prev" title="How Matplotlib will acknowledge financial support" href="sponsorship.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>
+    Back to top
+  </button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__primary"
+          id="__primary"/>
+  <label class="overlay overlay-primary" for="__primary"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__secondary"
+          id="__secondary"/>
+  <label class="overlay overlay-secondary" for="__secondary"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search the docs ..."
+         aria-label="Search the docs ..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+  
+    <nav class="bd-header navbar navbar-expand-lg bd-navbar">
+<div class="bd-header__inner bd-page-width">
+  <label class="sidebar-toggle primary-toggle" for="__primary">
+    <span class="fa-solid fa-bars"></span>
+  </label>
+  
+  
+  <div class="col-lg-3 navbar-header-items__start">
+    
+      <div class="navbar-item">
+   
+
+<a class="navbar-brand logo" href="https://matplotlib.org/stable/">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="_static/logo_light.svg" class="logo__image only-light" alt="Matplotlib Governance Documents 104f4c0 documentation - Home"/>
+    <script>document.write(`<img src="_static/logo_dark.svg" class="logo__image only-dark" alt="Matplotlib Governance Documents 104f4c0 documentation - Home"/>`);</script>
+  
+  
+</a></div>
+    
+  </div>
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    <div class="me-auto navbar-header-items__center">
+      
+        <div class="navbar-item"><ul id="navbar-main-elements" class="navbar-nav">
+  <li class="nav-item">
+    <a class="reference internal nav-link" href="/stable/plot_types/index">Plot types</a>
+  </li>
+  <li class="nav-item">
+    <a class="reference internal nav-link" href="/stable/users/index">User guide</a>
+  </li>
+  <li class="nav-item">
+    <a class="reference internal nav-link" href="/stable/tutorials/index">Tutorials</a>
+  </li>
+  <li class="nav-item">
+    <a class="reference internal nav-link" href="/stable/gallery/index">Examples</a>
+  </li>
+  <li class="nav-item">
+    <a class="reference internal nav-link" href="/stable/api/index">Reference</a>
+  </li>
+  <li class="nav-item">
+    <a class="reference internal nav-link" href="/stable/devel/index">Contribute</a>
+  </li>
+  <li class="nav-item">
+    <a class="reference internal nav-link" href="/stable/users/release_notes">Releases</a>
+  </li>
+</ul></div>
+      
+    </div>
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+ <script>
+ document.write(`
+   <button class="btn navbar-btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script>
+        </div>
+      
+      
+        <div class="navbar-item">
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
+  </button>
+`);
+</script></div>
+      
+        <div class="navbar-item"><ul class="navbar-icon-links navbar-nav"
+    aria-label="Icon Links">
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://gitter.im/matplotlib/matplotlib" title="Gitter" class="nav-link" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><span><i class="fa-brands fa-gitter fa-lg" aria-hidden="true"></i></span>
+            <span class="sr-only">Gitter</span></a>
+        </li>
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://discourse.matplotlib.org" title="Discourse" class="nav-link" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><span><i class="fa-brands fa-discourse fa-lg" aria-hidden="true"></i></span>
+            <span class="sr-only">Discourse</span></a>
+        </li>
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://github.com/matplotlib/matplotlib" title="GitHub" class="nav-link" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><span><i class="fa-brands fa-github fa-lg" aria-hidden="true"></i></span>
+            <span class="sr-only">GitHub</span></a>
+        </li>
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://twitter.com/matplotlib/" title="Twitter" class="nav-link" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><span><i class="fa-brands fa-twitter fa-lg" aria-hidden="true"></i></span>
+            <span class="sr-only">Twitter</span></a>
+        </li>
+</ul></div>
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+ <script>
+ document.write(`
+   <button class="btn navbar-btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script>
+    </div>
+  
+
+  
+    <label class="sidebar-toggle secondary-toggle" for="__secondary" tabindex="0">
+      <span class="fa-solid fa-outdent"></span>
+    </label>
+  
+</div>
+
+    </nav>
+  
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+      <div class="sidebar-header-items__center">
+        
+          <div class="navbar-item"><ul id="navbar-main-elements" class="navbar-nav">
+  <li class="nav-item">
+    <a class="reference internal nav-link" href="/stable/plot_types/index">Plot types</a>
+  </li>
+  <li class="nav-item">
+    <a class="reference internal nav-link" href="/stable/users/index">User guide</a>
+  </li>
+  <li class="nav-item">
+    <a class="reference internal nav-link" href="/stable/tutorials/index">Tutorials</a>
+  </li>
+  <li class="nav-item">
+    <a class="reference internal nav-link" href="/stable/gallery/index">Examples</a>
+  </li>
+  <li class="nav-item">
+    <a class="reference internal nav-link" href="/stable/api/index">Reference</a>
+  </li>
+  <li class="nav-item">
+    <a class="reference internal nav-link" href="/stable/devel/index">Contribute</a>
+  </li>
+  <li class="nav-item">
+    <a class="reference internal nav-link" href="/stable/users/release_notes">Releases</a>
+  </li>
+</ul></div>
+        
+      </div>
+    
+    
+    
+      <div class="sidebar-header-items__end">
+        
+          <div class="navbar-item">
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
+  </button>
+`);
+</script></div>
+        
+          <div class="navbar-item"><ul class="navbar-icon-links navbar-nav"
+    aria-label="Icon Links">
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://gitter.im/matplotlib/matplotlib" title="Gitter" class="nav-link" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><span><i class="fa-brands fa-gitter fa-lg" aria-hidden="true"></i></span>
+            <span class="sr-only">Gitter</span></a>
+        </li>
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://discourse.matplotlib.org" title="Discourse" class="nav-link" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><span><i class="fa-brands fa-discourse fa-lg" aria-hidden="true"></i></span>
+            <span class="sr-only">Discourse</span></a>
+        </li>
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://github.com/matplotlib/matplotlib" title="GitHub" class="nav-link" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><span><i class="fa-brands fa-github fa-lg" aria-hidden="true"></i></span>
+            <span class="sr-only">GitHub</span></a>
+        </li>
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://twitter.com/matplotlib/" title="Twitter" class="nav-link" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><span><i class="fa-brands fa-twitter fa-lg" aria-hidden="true"></i></span>
+            <span class="sr-only">Twitter</span></a>
+        </li>
+</ul></div>
+        
+      </div>
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+<h3><a href="index.html">Table of Contents</a></h3>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="governance.html">Main Governance Document</a></li>
+<li class="toctree-l1"><a class="reference internal" href="sponsorship.html">How Matplotlib will acknowledge financial support</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Deputy Project Leaders</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#release-manager-s">Release Manager(s)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#api-leader">API Leader</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#principal-engineer">Principal Engineer</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#reference-documentation-leader">Reference Documentation Leader</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#narrative-documentation-leader">Narrative Documentation Leader</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#secretary">Secretary</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#community-manager">Community Manager</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="people.html">People</a></li>
+<li class="toctree-l1"><a class="reference internal" href="funding.html">Funding</a></li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="templates.html">Templates</a></li>
+</ul>
+</div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main">
+        
+        
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item">
+
+
+
+<nav aria-label="Breadcrumb">
+  <ul class="bd-breadcrumbs">
+    
+    <li class="breadcrumb-item breadcrumb-home">
+      <a href="index.html" class="nav-link" aria-label="Home">
+        <i class="fa-solid fa-home"></i>
+      </a>
+    </li>
+    <li class="breadcrumb-item active" aria-current="page">Deputy...</li>
+  </ul>
+</nav>
+</div>
+      
+    </div>
+  
+  
+</div>
+</div>
+              
+              
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article" role="main">
+                  
+  <section id="deputy-project-leaders">
+<h1>Deputy Project Leaders<a class="headerlink" href="#deputy-project-leaders" title="Permalink to this heading">#</a></h1>
+<section id="release-manager-s">
+<h2>Release Manager(s)<a class="headerlink" href="#release-manager-s" title="Permalink to this heading">#</a></h2>
+<p>The Release Manager (RM) is appointed for a minor version (A.B.x) release series
+of Matplotlib rather than for a fixed term.  They are responsible for the full
+release life cycle of all minor releases in the series including:</p>
+<ul class="simple">
+<li><p>ensuring the whats new, API changes, and release notes are up to date</p></li>
+<li><p>the timing of the releases</p></li>
+<li><p>what changes should or should not be backported from the master
+branch</p></li>
+<li><p>rebuilding and publishing the website</p></li>
+<li><p>publishing sdist and wheels to pypi</p></li>
+<li><p>notifying down-stream packagers of the release</p></li>
+<li><p>announcing the release (in coordination with the Community Manager)</p></li>
+</ul>
+<p>An individual may be the RM for more than one release series at the
+same time.</p>
+</section>
+<section id="api-leader">
+<h2>API Leader<a class="headerlink" href="#api-leader" title="Permalink to this heading">#</a></h2>
+<p>A good API is essential for usability and user satisfaction. We strive for an
+API that is intuitive, easy to use, consistent and stable. The API Leader (AL)
+is responsible for the overall evolution of the API. In particular they ensure
+that:</p>
+<ul class="simple">
+<li><p>additions are justified, i.e. they do not duplicate existing functionality
+and do not exceed the intended scope of the library</p></li>
+<li><p>additions are consistent with the existing API</p></li>
+<li><p>additions are designed to not cause any future liabilities, i.e. they do not
+unintendedly limit future extensions or expose internals</p></li>
+<li><p>changes are carefully balanced between their benefit for future users and
+their impact on existing code</p></li>
+<li><p>changes follow the deprecation policy so that they do not hit users
+unprepeared</p></li>
+</ul>
+</section>
+<section id="principal-engineer">
+<h2>Principal Engineer<a class="headerlink" href="#principal-engineer" title="Permalink to this heading">#</a></h2>
+<p>Matplotlib relies on a wide and deep code base to implement its public
+API; the low-level details need to be correct to faithfully implement
+that API.  In contrast to the API Leader, who is
+responsible for what the library does, the Principal Engineer is
+responsible for how. They are the point of contact for:</p>
+<ul class="simple">
+<li><p>rendering</p></li>
+<li><p>file formats</p></li>
+<li><p>text/font handling</p></li>
+<li><p>integration with GUI toolkits</p></li>
+<li><p>internal data structures and API</p></li>
+</ul>
+</section>
+<section id="reference-documentation-leader">
+<h2>Reference Documentation Leader<a class="headerlink" href="#reference-documentation-leader" title="Permalink to this heading">#</a></h2>
+<p>The Matplotlib API reference documentation is split between the docstrings and
+the rst source.  This documentation needs to be complete and accurate as our
+users rely on it as the final authority of what a given method will do (short of
+reading the source).</p>
+<p>The Reference Documentation Leader (RDL) is responsible for ensuring that
+the docstrings are:</p>
+<ul class="simple">
+<li><p>correctly formatted and render as intended</p></li>
+<li><p>technically correct</p></li>
+<li><p>complete</p></li>
+</ul>
+<p>In addition to the docstrings the RDL is responsible for the sphinx build
+machinery and our sphinx extensions.</p>
+</section>
+<section id="narrative-documentation-leader">
+<h2>Narrative Documentation Leader<a class="headerlink" href="#narrative-documentation-leader" title="Permalink to this heading">#</a></h2>
+<p>In addition to the reference documentation, Matplotlib has narrative documentation.
+This documentation can take the form of short “cookbook” examples, longer tutorials,
+and prose documenting the how and why of the internals of the library.  This includes
+content that lives in both the main repository and  in other repositories
+in the Matplotlib organization.</p>
+<p>The Narrative Documentation Leader is responsible for shepherding all of this
+content including the scope, organization, level, tone, and voice.</p>
+</section>
+<section id="secretary">
+<h2>Secretary<a class="headerlink" href="#secretary" title="Permalink to this heading">#</a></h2>
+<ul class="simple">
+<li><p>Responsible for ensuring that there is an agenda for the weekly
+meeting at it is followed.</p></li>
+<li><p>Responsible for maintaining the weekly notes.</p></li>
+</ul>
+</section>
+<section id="community-manager">
+<h2>Community Manager<a class="headerlink" href="#community-manager" title="Permalink to this heading">#</a></h2>
+<p>The true strength of Matplotlib and why it has had such longevity as a
+project is the community of people around the code.  That community
+needs to be maintained.  The Community Manager (CM) is a catch-all
+position for several very diverse tasks and this role may be split in
+the future and may want to enlist further assistants.  The CM is responsible
+for Matplotlib’s evangelism, outreach, and user support as well as mainitaining
+the venues for conversation with the community.</p>
+</section>
+</section>
+
+
+                </article>
+              
+              
+              
+              
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> On this page
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#release-manager-s">Release Manager(s)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#api-leader">API Leader</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#principal-engineer">Principal Engineer</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#reference-documentation-leader">Reference Documentation Leader</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#narrative-documentation-leader">Narrative Documentation Leader</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#secretary">Secretary</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#community-manager">Community Manager</a></li>
+</ul>
+  </nav></div>
+
+  <div class="sidebar-secondary-item">
+  <div class="tocsection sourcelink">
+    <a href="_sources/deputy_project_leads.md.txt">
+      <i class="fa-solid fa-file-lines"></i> Show Source
+    </a>
+  </div>
+</div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+          </footer>
+        
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/bootstrap.js?digest=365ca57ee442770a23c6"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=365ca57ee442770a23c6"></script>
+
+  <footer class="bd-footer">
+<div class="bd-footer__inner bd-page-width">
+  
+    <div class="footer-items__start">
+      
+        <div class="footer-item">
+  <p class="copyright">
+    
+      © Copyright 2022, Matplotlib Development Team.
+      <br/>
+    
+  </p>
+</div>
+      
+        <div class="footer-item">
+  <p class="sphinx-version">
+    Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 7.1.2.
+    <br/>
+  </p>
+</div>
+      
+    </div>
+  
+  
+  
+    <div class="footer-items__end">
+      
+        <div class="footer-item"><p class="theme-version">
+  Built with the <a href="https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html">PyData Sphinx Theme</a> 0.14.3.
+</p></div>
+      
+    </div>
+  
+</div>
+
+  </footer>
+  </body>
+</html>
