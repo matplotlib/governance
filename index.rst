@@ -13,4 +13,3 @@ Matplotlib Governance Documentation
 
 .. toctree::
    templates.md
-   communications_guidelines.md
