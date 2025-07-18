@@ -15,6 +15,8 @@ jobs:
           }}" >> $GITHUB_OUTPUT
 
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
 
       - name: Upgrade jinja
         run: pip install -U jinja2
@@ -24,10 +26,12 @@ jobs:
 
       - name: Build
         run: |
-          if [ "${{ steps.setup.outputs.IS_RELEASE }}" == "true" ]; then
+          if [ "${STEPS_SETUP_OUTPUTS_IS_RELEASE}" == "true" ]; then
             O="-t release"
           fi
           make html O="$O"
+        env:
+          STEPS_SETUP_OUTPUTS_IS_RELEASE: ${{ steps.setup.outputs.IS_RELEASE }}
 
       - name: Publish
         if: ${{ steps.setup.outputs.IS_RELEASE == 'true' }}
