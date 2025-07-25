@@ -265,14 +265,6 @@ interactions with NumFOCUS which will include external members.
   Subcommittee through employment or contracting work. This avoids effective
   majorities resting on one person.
 
-### Code of Conduct Subcommittee
-
-This committee should be between 3 and 7 people, at least one of whom is on the
-Steering Council and at least one who is not.  This committee in responsible for
-fielding and addressing CoC reports that happen within our digital and physical
-spaces.  They will maintain their own private mailing list and reporting
-address.  Detailed policy on how to handle CoC will be documented elsewhere.
-
 
 ## Deputy Project Leaders
 
@@ -304,12 +296,20 @@ individual may hold more than one DPL simultaneously.
 Matplotlib has a number of domain specific packages under it's umbrella and
 hosted on the Matplotlib github organizations.  These projects will each have
 their own Project Leader who can run the projects as they see fit consistent with
-the Matplotlib Code of Conduct.
+the [NumFOCUS Code of Conduct](https://numfocus.org/code-of-conduct).
 
 If a project would like to be hosted on the Matplotlib organization on
 GitHub, they can petition the SC and be accepted by a simple majority
 vote.  A project can leave the organization at anytime and can be
 removed from the organization by an 2/3 majority vote of the SC.
+
+## Code of Conduct
+
+Matplotlib uses the NumFOCUS Code of Conduct with reports handled by the
+NumFOCUS Code of Conduct Working Group.  Matplotlib uses the "response"
+agreement where the response is handled by they NumFOCUS Code of Conduct
+Working Group with technical support (e.g. to conduct administrative tasks
+like blocking users) from the project when required.
 
 ## Institutional Partners and Funding
 
