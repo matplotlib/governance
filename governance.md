@@ -307,7 +307,7 @@ removed from the organization by an 2/3 majority vote of the SC.
 
 Matplotlib uses the NumFOCUS Code of Conduct with reports handled by the
 NumFOCUS Code of Conduct Working Group.  Matplotlib uses the "response"
-agreement where the response is handled by they NumFOCUS Code of Conduct
+agreement where the response is handled by the NumFOCUS Code of Conduct
 Working Group with technical support (e.g. to conduct administrative tasks
 like blocking users) from the project when required.
 
