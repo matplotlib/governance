@@ -32,14 +32,6 @@ NOTE: The Council will be initially formed through PL nomination from the set
 of existing Developers who meet the criteria laid out in the governance
 document.
 
-### CoC Subcommittee
-
-- Thomas Caswell [@tacaswell](https://github.com/tacaswell)
-- Eric Firing [@efiring](https://github.com/efiring)
-- Ryan May [@dopplershift](https://github.com/dopplershift)
-- Tim Hoffmann [@timhoffm](https://github.com/timhoffm)
-- Hannah Aizenman [@story645](https://github.com/story645)
-
 ### NumFOCUS Subcommittee
 
 - Thomas Caswell [@tacaswell](https://github.com/tacaswell)
