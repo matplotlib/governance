@@ -368,7 +368,7 @@ In line with the sponsorship levels, an institution needs to provide at least:
 
 to be an Institutional Partner.  In addition to the Sponsor acknowledgements as
 described in the [sponsorship
-document](https://github.com/matplotlib/governance/blob/main/governance.md),
+document](https://github.com/matplotlib/governance/blob/main/sponsorship.md),
 institutional partners can also:
 
 -   Acknowledge their own funding sources on the Matplotlib websites,
