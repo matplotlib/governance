@@ -366,9 +366,9 @@ In line with the sponsorship levels, an institution needs to provide at least:
 -   6 person-months/yr of paid work time for one or more Matplotlib
     maintainers or regular contributors to any Matplotlib team or activity
 
-to be an Institutional Partner.  In addition to the Sponsor acknoledgements as
+to be an Institutional Partner.  In addition to the Sponsor acknowledgements as
 described in the [sponsorship
-document](https://github.com/matplotlib/governance/sponsorship.md),
+document](https://github.com/matplotlib/governance/blob/main/sponsorship.md),
 institutional partners can also:
 
 -   Acknowledge their own funding sources on the Matplotlib websites,
