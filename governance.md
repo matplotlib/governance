@@ -305,7 +305,7 @@ removed from the organization by an 2/3 majority vote of the SC.
 
 ## Code of Conduct
 
-Matplotlib uses the NumFOCUS Code of Conduct with reports handled by the
+Matplotlib uses the [NumFOCUS Code of Conduct](https://numfocus.org/code-of-conduct) with reports handled by the
 NumFOCUS Code of Conduct Working Group.  Matplotlib uses the "response"
 agreement where the response is handled by the NumFOCUS Code of Conduct
 Working Group with technical support (e.g. to conduct administrative tasks
